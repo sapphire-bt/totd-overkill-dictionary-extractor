@@ -145,17 +145,6 @@ def parse_dictionary_file(stream, filepath):
 	with open(f"{output_name}_phrases.txt", "w", encoding = "utf-8") as output_file:
 		output_file.write("\n".join(output))
 
-def get_file_size(stream):
-	pos = stream.tell()
-
-	stream.seek(0, 2)
-
-	size = stream.tell()
-
-	stream.seek(pos)
-
-	return size
-
 def get_phrase_sizes(stream, count):
 	groups = []
 	total  = count - 1
@@ -193,17 +182,6 @@ def get_unsized_text(stream):
 		char = struct.unpack("c", stream.read(1))[0].decode()
 
 	return text
-
-def peek(stream, length = 1):
-	try:
-		pos  = stream.tell()
-		byte = struct.unpack("B", stream.read(length))[0]
-
-		stream.seek(pos)
-
-		return byte
-	except Exception as e:
-		return -1
 
 if __name__ == "__main__":
 	main()
