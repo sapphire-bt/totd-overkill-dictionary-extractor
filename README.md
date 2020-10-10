@@ -10,7 +10,9 @@ To extract the file `dlc_dictionaries_profanityrules.pc`, run the following comm
 python3 read_dlc_dictionary.py dlc_dictionaries_profanityrules.pc
 ```
 
-This will create `dlc_dictionaries_profanityrules_phrases.txt` in the same directory. Sample output from this file:
+Multiple filenames can be passed at once.
+
+The above will create `dlc_dictionaries_profanityrules_phrases.txt` in the same directory. Sample output from this file:
 
 ```
 ------------------------------------------
@@ -24,4 +26,4 @@ Ladybits -> Beef curtains
 Ladybits -> Birth cannon
 ```
 
-As the sample output shows, phrases are always accompanied by a group name.
+Phrases are always accompanied by a group name.
