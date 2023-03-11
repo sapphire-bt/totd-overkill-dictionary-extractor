@@ -1,0 +1,1506 @@
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews
+SOUND FX
+MUSIC,
+VOICES AND ADDITIONAL SOUND FX
+Pit Stop Productions Ltd
+CAST
+AGENT G
+Will Sierra
+DETECTIVE WASHINGTON
+Anthony Aroya
+VARLA GUNS
+Sarah Connor
+CANDI STRYPER
+Kori Rushton
+JASPER GUNS
+Carter Jackson
+PAPA CAESAR
+Armand StJuste
+WARDEN DARLING
+Vince Mola
+MOTHER
+Deryn Atkin
+NARRATOR
+Conor Hall
+"Dim Sum For Papa"
+Written By John Sanderson and Nadeem Daya
+Performed by Blissful Death
+"They Call Him G"
+Performed by The Scythes
+"One Night In Bayou"
+Performed by The Brothel Creepers
+"The House of the Dead"
+Performed by Rapid Fire Funk
+"Special Kinda Love"
+Performed by Circling Crows
+"Critics Choice"
+Performed by Golden Lick
+"Overkill"
+Performed by Full Metal Freak Out
+"Beautiful Mind"
+Performed by The Painful Bliss
+"Get Funky"
+Performed by Cat Green & The Bodyshots
+"The Mutant Shuffle"
+Performed by Stage Fright
+"Torn Out Twisted"
+Performed by Casey & The Creepy Feelings
+"Wash's Day Off"
+Performed by The Scythes
+"The Closet"
+Performed by G Cash & The Bitchinators
+"Got On It"
+Performed by Sukkar Punch
+ 2013 SEGA Europe Ltd
+The Typing of the Dead:
+Overkill
+A Modern Dream game
+Developed by these guys:
+Jonah Buckley
+Dan Chapman
+Ollie Clarke
+Russ Callaghan
+Jonathan Evans
+Andy Keeble
+James Hargreaves
+Nigel Higgs
+Tim Page
+Tony Povey
+Fred Williams
+BUSINESS AFFAIRS
+Tom Weston
+Special thanks & best wishes to everyone from Blitz Games Studios
+This game is dedicated to all your futures.
+Extra thanks to everyone from Headstrong Games
+SEGA CORPORATION
+PRESIDENT/COO
+Naoya Tsurumi
+EXECUTIVE MANAGING DIRECTOR
+Yukio Sugino
+CORPORATE OFFICER
+Tatsuyuki Miyazaki
+SEGA EUROPE
+Jurgen Post
+John Ward
+Chris Southall
+BUSINESS PLANNING
+SENIOR VICE PRESIDENT,
+BUSINESS PLANNING
+Tatsuya Shikata
+PUBLISHING MANAGER
+Bobby Wertheim
+BUSINESS PLANNING CO-ORDINATOR
+Takashi Nakaya
+PRODUCT DEVELOPMENT
+DIRECTOR-DEVELOPMENT SERVICES AND PRODUCTION
+Jim Woods
+HEAD OF LOCALISATION AND ESD
+Charlie O'Connor
+PRODUCER
+Mariusz Szlanta
+ESD TEAM
+VICE PRESIDENT,
+DIGITAL DISTRIBUTION
+John Clark
+DIRECTOR OF DIGITAL DISTRIBUTION
+James Schall 
+COMMERCIAL DIRECTOR
+Dean Trotman
+HEAD OF LICENSING AND BUSINESS DEVELOPMENT
+Peter Chan
+SENIOR BUSINESS MANAGER
+Anh Luong
+DIGITAL DOWNLOAD ACCOUNT MANAGER
+Charlotte Cook
+BUSINESS ANALYST
+Jarvis Crofts
+ASSISTANT BUSINESS ANALYST
+Filippo Mingione
+DIGITAL PRODUCT MANAGER
+Lewis Herbert
+PRODUCT LAUNCH EXECUTIVE
+Mark Dallamore
+LEGAL
+DIRECTOR OF LEGAL AND BUSINESS AFFAIRS
+Nicky Ormrod
+LEGAL EXECUTIVE
+Marine Cabour
+MARKETING
+EUROPEAN MARKETING DIRECTOR
+Amanda Farr
+PR MANAGER
+Peter Oliver
+OPERATIONS
+HEAD OF OPERATIONS
+Natalie Forsyth
+CREATIVE SERVICES
+HEAD OF CREATIVE SERVICES
+Jeff Webber
+TRAFFIC MANAGER
+Jeff Webber
+CREATIVE SERVICES COMMUNICATIONS MANAGER
+Asha Chauhan
+CREATIVE TEAM MANAGER
+Noud Tempelaere
+CREATIVE ARTWORKER
+Ranj Vekaria
+Steve Smith
+Aron Ruffy
+TRAFFIC & SUBMISSIONS CO-ORDINATOR
+Cai Waters
+VIDEO EDITING
+MULTIMEDIA PRODUCER
+Elliot Kidner
+VIDEO EDITOR
+Akane Hiraoka
+JUNIOR VIDEO SUITE ASSISTANT
+Una Marzorati
+DEVELOPMENT SERVICES - SEGA EUROPE
+DIRECTOR,
+DEVELOPMENT SERVICES SEGA WEST
+Jim Woods
+HEAD OF PROGRAM OFFICE
+Mark Le Breton
+SUBMISSIONS MANAGER
+Dave Pither
+PROCESS AND TCM MANAGER
+Ben Howell
+HEAD OF QA & LOCALISATION
+Ghulam Khan
+PRODUCTION MANAGERS
+Teressa Wright
+Simon Lawrence
+PROJECT LEAD
+Luke "Rhino" Tarasek
+RESOURCE MANAGER
+Ben Jackson
+LOCALISATION MANAGER
+Marta Lois Gonzalez
+TRAINING & RECRUITMENT SUPERVISOR
+Julie Metior
+LOCALISATION MANAGER
+Marta Lois Gonz
+LOCALISATION PROJECT SUPERVISOR
+Antonella Marras
+LEAD TRANSLATOR
+Luis J.
+Paredes
+TRANSLATORS
+Anais Maniaval
+Chiara Canu
+Gabriel Casas
+Giulia Checchi
+Giuseppe Rosa
+Ronan Salon
+Sebasti
+n Salguero
+lvarez
+MASTERING & EQUIPMENT MANAGER
+Phil Adams
+SENIOR MASTERING TECHNICIAN
+Mike Veness
+ASSISTANT MASTERING TECHNICIANS
+Danny Florey
+Sean Young
+FUNCTIONAL QA LEAD
+Colin Perman
+FUNCTIONAL QA TESTERS
+Alexander Maunder
+Diogo Rato
+Francis Chu Shee Lam
+Nicola Gelnar
+Peter Lamoureux
+LANGUAGE QA SUPERVISOR
+Alessandro Irranca
+LANGUAGE QA LEAD
+Pedro L.
+Ortega
+LOCALISATION QA SENIOR TESTERS
+Serenella Grimaldi
+LOCALISATION TESTERS
+Antonio Jarreta
+Sebastian Kernst
+Roberto Ciarlantini
+Endika Posadas
+Serenella Grimaldi
+Hugues Bondoux
+COMPLIANCE QA & DATABASE SUPERVISOR
+Darran Wall
+COMPLIANCE QA LEAD
+Chris Brownsell
+ADMINISTRATION AND FINANCE CO-ORDINATOR
+Chris Bien
+QA ADMINISTRATOR
+Chris Geiles
+EQUIPMENT & SHIFT CO-ORDINATORS
+Chris Bailey
+Tony Langan
+SPECIAL THANKS
+Chris Southall and Hardlight Studios
+Dean Trotman
+Tom Weston
+Jessica Padkin
+James Langtry
+Stuart Wright
+Jide Agbalaya
+Clinton Littlejohn
+Eugene Lee
+Francis Hart
+Luis de Mendonca
+Mohamed Bensakrane
+Michael Riley
+Bradley Matthews

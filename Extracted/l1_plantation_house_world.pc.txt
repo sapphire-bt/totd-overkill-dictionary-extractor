@@ -1,0 +1,9295 @@
+String Pool Error 1
+String Pool Error 2
+String Pool Error 3
+String Pool Error 4
+Bacon
+Baguette
+Beef
+Bite you
+Boiled
+Bones
+Chewy finger
+Chewy meat
+Chicken
+Chocolate
+Chomp
+Chopped
+Consume
+Delicious
+Diced
+Din dins
+Dinner time
+Dissect
+Donut
+Easy meal
+Eggs
+Fajita
+Flay
+Food
+Fried
+Gnaw
+Gobble
+Gouge
+Grab you
+Hungry
+Ketchup
+Lacerate
+Lamb
+Lick
+Looking good
+Maim
+Marrow
+Massacre
+Meat biter
+Meaty
+Munch
+Murder
+Mutilate
+Nibble
+Om nom nom
+Pastrami
+Peeled
+Peppery
+Pizza
+Pork
+Potato
+Pudding
+Ravage
+Rend you
+Roasted
+Salted
+Sandwich
+Sauce
+Sausages
+Say cheese
+Sever
+Shredded
+Slaughter
+Slice you
+Slurp
+Snack food
+Snap bones
+Soup
+Stew
+Supper
+Sweet tooth
+Taco
+Tasty brain
+Tasty human
+Tasty morsel
+Tear apart
+Toasted
+Turkey
+Vegetables
+Yummy
+Always hungry
+Aisle blocker
+Ate all the pies
+Baby-back ribs
+Bad at sports
+Beached whale
+Beefcake
+Belly envy
+Big Bertha
+Billy twelve chins
+Binge drinker
+Bingo wings
+Big moobs
+Blimp
+Bloated
+Blubber
+Blubbernaught
+Bubbly personality
+Buffet warrior
+Butterball
+Can't do stairs
+Caution wide load
+Chef's best friend
+Cholesterol explosion
+Chubbs
+Chunky
+Couch potato
+Dead weight
+Destroyer of buffets
+Donut muncher
+Double-chin
+Dough-boy
+Dumpy
+Eat too much
+Eating disorder
+Extra large
+Fat bastard
+Fat sack of crap
+Fatty
+Feed my hunger
+Feeding frenzy
+Feel the paunch
+Flab wagon
+Flabby
+Flesh bag
+Furious appetite
+Get in my belly
+Gravy bloater
+Greasy
+Gross
+Gut lord
+Gut thumper
+Guzzle-guts
+Ham toucher
+Hambone
+Heart attack
+House cow
+It's glandular
+Jelly-belly
+Jumbo
+Just big-boned
+Lard ass
+Man boobs
+Meat bag
+Meatwad
+Mister Blob
+Mouth-breather
+One more bite
+Out of breath
+Paunch
+Pie master
+Porkbeast
+Pudge
+Saddlebags
+Second breakfast
+Stomach ache
+Swallow you whole
+Swamp donkey
+Sweat monster
+Thunder thighs
+Truffle shuffle
+Tubbs
+Wafer-thin mint
+Walking dumpster
+Where are my feet
+Wide load
+Ipso fatso
+BITE
+BLOOD
+BONES
+CHEW
+DEVOUR
+DIGESTED
+DISSECT
+FLESH
+GNAW
+GUTS
+HACK
+HOWL
+INGEST
+KILL
+MARROW
+MUNCH
+MURDER
+MUTILATE
+REND
+ROAR
+SAVAGE
+SLAKE
+SLAY
+SLICE
+TEAR
+VISCERA
+WOUND
+SALIVATE
+RUPTURE
+FLAY
+ASSAULT
+LUNGE
+MAUL
+PIERCE
+VIOLENCE
+ANGER
+RAGE
+FURY
+BUNNIES
+CUDDLES
+CUTE
+FLUFFY
+KITTENS
+NICE
+PINK
+PRETTY
+SLIPPERS
+UNICORNS
+WARM
+KISSES
+CANDY
+SMILES
+SUNSHINE
+LOLLIPOPS
+FRIENDS
+RAINBOWS
+BATIK
+BEADS
+BUNTING
+CAKES
+FABRIC
+KNIT
+KNITTING
+MAKING
+PAINT
+PATCH
+SEWING
+WATERCOLOR
+NEEDLE
+THREAD
+SCISSORS
+TAPE
+CRAFT
+PENCIL
+BRUSH
+CANVAS
+BAKING
+CREATIVE
+MY LOVE
+DARLING
+HUNGER
+LONELY
+TOUCH
+BE MINE
+WILL
+MINE
+NEED
+LOVE
+WANT
+MELODY
+UNCHAINED
+TIME
+GOES BY
+SO SLOWLY
+FLAMBEE
+DEVILLE
+SAUTE
+ROAST
+CASSEROLE
+TOAST
+BAKE
+BOIL
+HEAT
+SIMMER
+COOK
+SOUP
+STEW
+REDUCE
+FRICASSEE
+PARBOIL
+GOULASH
+STIRFRY
+STROGANOFF
+SALAD
+PAELLA
+BARBECUE
+LASAGNE
+CROISSANT
+STEAM
+BOHR
+MACH
+WATT
+CURIE
+DIRAC
+SAGAN
+TESLA
+VOLTA
+DARWIN
+EUCLID
+HUBBLE
+KEPLER
+NEWTON
+PASCAL
+PLANCK
+HAWKING
+PTOLEMY
+EINSTEIN
+ARISTOTLE
+FIBONACCI
+MENDELEEV
+ARCHIMEDES
+COPERNICUS
+PYTHAGORAS
+TURING
+PENROSE
+GALILEO
+BAKE
+BLAZE
+BOIL
+BURN
+COOK
+FIRE
+FLAMBEED
+HEAT
+IGNITE
+INCINERATE
+INFERNO
+MELT
+ROASTED
+SAUTED
+SCORCH
+SEAR
+SIMMER
+TOAST
+EMBERS
+FLAMES
+SCORCH
+MAGMA
+SPARKS
+FURNACE
+BUBBLE
+STEAM
+MOLTEN
+IRIDESCENT
+COMBUST
+SMOLDER
+CAUTERIZE
+KINDLE
+SMOKE
+CREMATE
+KING
+SING
+PING
+RING
+DING
+MING
+SING
+THING
+SWING
+SCHWING
+UPPING
+DOWNING
+PUTTING
+FOOTING
+FARTING
+THINKING
+DRINKING
+SPORTING
+AMAZING
+POUNDING
+SHOUTING
+DANCING
+SPINNING
+FLINGING
+HAWKING
+PROPOSING
+COMPOSING
+BULLDOZING
+ASTOUNDING
+FRED
+BRED
+NOTED
+RENTED
+POTTED
+GRANTED
+COATED
+QUILTED
+MENTORED
+TRUNCATED
+EMACIATED
+UGLY
+SPRY
+FUNNY
+HONEY
+GUMMY
+TUMMY
+MUMMY
+RUNNY
+HAPPY
+SAPPY
+SNAPPY
+UTTERLY
+FRUITILY
+LOOPILY
+CALUMNY
+READILY
+MERRILY
+CHOPPILY
+FLOPPILY
+BRUTALLY
+FURIOUSLY
+WRETCHEDLY
+FUNNY
+CRUMMY
+STEADILY
+GLOOMILY
+CLOSELY
+INEVITABLY
+DUBIOUSLY
+SICK
+DRUG
+INFECT
+TUMOR
+ULCER
+CARDIAC
+RENAL
+OPERATE
+AMPUTATE
+MEDICATE
+INFECTED
+SCARLET
+VERMILLION
+FLAME
+CRIMSON
+BURGUNDY
+ROSE
+CROCUS
+DAISY
+BUTTERCUP
+PANSY
+POPPY
+#!!#$
+YXZX
+ccbaca
+cqqc
+kiikq
+]g\]iqpzpq]\[[\q
+~][|]~
+{zz{p
+}||}{
+{}u}wu
+utp{tuvs_
+vtus
+trpty
+yopoioyxohixY
+oxmY
+omonhmX
+dfedde
+,-,+
+432.34
+/1.0/.D
+76567
+IJIH
+GKLFG
+FEEF
+VTUTS
+PROQ
+BA=BA
+=;=<;<
+@?>n
+@AQa
+ @`a
+fghG
++;[n
+ 0@P
+PPPa
+  P`
+``PP
+Qqqq
+qppp
+pp`@
+jIJ&
+JJJJ
+9::j
+@```
+=--m
+---	
+P00@
+ 000
+@00 
+AAA1
+AQaa
+bbbb
+Rcss
+`P00
+rqQ 
+qP@0
+^onJ
+0@@@
+@@@@
+@0Qq
+<<<	
+pqqq
+p``P
+PP@@
+A  !
+qaPP
+@``P
+@000
+PP@@
+000 
+qa@0
+@000
+0   
+&'7g
+*):*
+AA1 
+;;;k
+D21&
+11!1
+rqp`
+p`@0
+(:\g
+KJIJ
+p`PP
+a  Q
+ 0!B
+K:L-
+1A1A
+sa@ 
+1!!!
+000@
+@@@0
+@P@@
+  00
+@@@P
+^^n/
+`p`p
+`@0 
+vggg
+aaQA
+AAAQ
+!  #
+AAQR
+RRRR
+bbbR
+p`PP
+RBRR
+#2Rg
+WVed
+dTdc
+srqq
+`app
+`PPP
+VUdt
+P@0 
+01#D
+```d
+aRDd
+  00
+@@PP
+`P@@
+,;K	
+````
+```p
+p`pa
+aabb
+qaaa
+`pqp
+`PPP
+@@00
+3Q`@
+%%%d
+P@0 
+edss
+eTcg
+bba@
+0KYXYMX
+MYL}
+YKJIJKJIHZLYJZYLZNZJH
+HiZiNZiH
+i if)
+3)3(
+89876@797@?@<?C
+.22.-Rl
+1,,-.1
+,decelccad-,++4-
+<;:EDFFDC;<=>;=<@=E>BDEB=B>BCD@G=G@
+=AGA=CBAAGC]
+lR]c
+Uab__`a]TUUVWVUTT]\\VTR\]V\[[
+\RP\Q[Q\PRQPQ
+kskjks
+sjqb
+bqrr_bsoqos
+rqomq
+zrmnonm_rnzyx{
+|xwvnopv
+xtpo
+^npn^_pt^`_^
+#!!#$
+YXZX
+ccbaca
+cqqc
+kiikq
+]g\]iqpzpq]\[[\q
+~][|]~
+{zz{p
+}||}{
+{}u}wu
+utp{tuvs_
+vtus
+trpty
+yopoioyxohixY
+oxmY
+omonhmX
+dfedde
+,-,+
+432.34
+/1.0/.D
+76567
+IJIH
+GKLFG
+FEEF
+VTUTS
+PROQ
+BA=BA
+=;=<;<
+@?>n
+HH,-
+,HFF+,H
+IIFH
+WGIFIG
+GWV+FDGDF
++*D*+*
+VEGDGEEVU*DBEBDUCEBECCUTB)*
+*)C@B)B@TAC@CAATS
+S?A?SRA>@>A?@()
+)((@>
+('?<>'><R=?<?==RQP=Q:'<=:<=P;:=;O;P':&&
+';8:8&:;O98;9N9O
+&8%%
+6%8968$
+%%6$
+9N7697M7N4$67467M5475L5M$4##
+$5242#45L3253J3L
+#2""
+."23.2 	"". 
+  /!/ .3J0.300/.K0J/010K1
+lkml
+jljikj
+hjhgih
+~ghf~fhfegf~}efd}dfdced}|cdb|bdbacb|{{`bab``{z^a`z^`a^_^zyZ_^yZ^_Z[Zyx\[Zx\Z[\]\xwu]\wu\]u
+uwvs
+uvsu
+svtp
+stps
+ptqn
+pqnp
+nonqr
+#!!#$
+YXZX
+ccbaca
+cqqc
+kiikq
+]g\]iqpzpq]\[[\q
+~][|]~
+{zz{p
+}||}{
+{}u}wu
+utp{tuvs_
+vtus
+trpty
+yopoioyxohixY
+oxmY
+omonhmX
+dfedde
+,-,+
+432.34
+/1.0/.D
+76567
+IJIH
+GKLFG
+FEEF
+VTUTS
+PROQ
+BA=BA
+=;=<;<
+@?>n
+BCDCBAA
+JIHIJ~~jIj~
+zz{|{zyyz
+*++4
+87678;8:;:89c@d@cGiGcGo@GiOoGFOFGFqoFOpqFVpVFVsqVprs^_r\VsV\^s\\rt\]^]\tWbvbWXPXWXabXPQNQPaXYY`aSXQXSYQNRmRN`YZRmgngmgnhfgh[`Z`[ugf<<Rge<f=QRR<=Q=S<e>>=<k>e>klT[ZYTZTYS[TUTEU?S=S?T=>?ET?l?>?lE,
+,-.-,-3
+-./3-2/2-2
+$%%1
+&%$1%00
+%&''0%('&'()5
+00'5)5'
+756/656/010/0128;<;89:989:=4)3)4++*)*+,.*,*.-
+"('("$"#$#"!%#!#%&?@C@?>?B>B?ADBABDE
+PQPONMNONMLKLMLKJIJKJIH[HIH[Z]Z[Z]\_\]\_^a^_^a`R
+STSRSTUVUTUVWXWVWXYfYXYfgdgfgdebedebc
+A10/010@A0/.@0-.-0-?@-.+?-,+,-,C?,+*C,3*3,3DC3*2D352535ED524E574757FE746F796979=F968=9'8'9'<='8%<'&%&'&><&%$>&)$)&)G>)$(G);(;);(:
+}}|{
+|~|}~}
+kijk
+ihhw
+qppM
+wvtuvwu
+hiutonuo
+imnoo
+mnml
+10/012
+=<;<=>)('()*a`_`ab-,+,-.edcdef! 
+ !"543456IHGHIJ98789:QPOPQR%$#$%&A@?@ABYXWXYZEDCDEF]\[\]^MLKLMNTKLUNMKTSNUVVSTSVU
+0KYXYMX
+MYL}
+YKJIJKJIHZLYJZYLZNZJH
+HiZiNZiH
+i if)
+3)3(
+89876@797@?@<?C
+.22.-Rl
+1,,-.1
+,decelccad-,++4-
+<;:EDFFDC;<=>;=<@=E>BDEB=B>BCD@G=G@
+=AGA=CBAAGC]
+lR]c
+Uab__`a]TUUVWVUTT]\\VTR\]V\[[
+\RP\Q[Q\PRQPQ
+kskjks
+sjqb
+bqrr_bsoqos
+rqomq
+zrmnonm_rnzyx{
+|xwvnopv
+xtpo
+^npn^_pt^`_^
+IHGHKJIKHILK*)(),+,.-).,.0/.10132.31)3.*3)*43
+$!O&%&OPQ
+'S&PR&S'&R7656987969;:7;97<;=<7@?>?BA@B?TDCUDT@EVFE@
+$%XW%
+;9=Z?>Z:?[:Z<\;
+BA@ABC5070/8^.-0_/.21243_a`b4.5a06a5$
+$#FEDcHGHJIcJHdLKELdFLEMLF
+')()%*'%)'&%
+0-2+,3-,+J/.-K,0K-01K$
+$#987M:LM;:>=<O?NBA@EDCADEBDA?QPOQ?>FDIHG
+	210*23*12*+1),/,-7)-,)*-/,.
+ !654HGJGFEHFGHIFNMPMKQrLRMsKNsMNOs
+-48436-34-*3;:9+9:+)9+*)
+"WV\^U]_U^VU_UTSVTUWTVuXt[ZY!
+>A@ACB>CAC<D><C>=<?=>ba`cabdac
+gfefihgifikjkmlimkmoniomgoigpoqpg
+%$#%
++-,+.-.0/.)0+).+*):9<97=78>987:89:;8&(%KJIKLJKMLPON
+321342354653A@?DCBXCDYFEYGFXZCAG@HGASRQRUTRVUSVRWVS
+, +e-d-e(
+$#"$
+f(e(f*h
+CEDEGFiAHjAiCkECBk
+436327l103m24m3n51
+.#"/$KIMIONIJOKJILJKVUXRQPQTSRTQUTRVTUpWo
+:98q<;r<qs>=rt<r?t@u:[ZYZ]\Z^][^Z_^[ba`abc
+/.V37EB]ABLYAKZAY%SRX%R%X(4264W25W4HJICJHCHGDCFD\CC\[	
+!Q@?::?>:98:>99><9<;<>=
+*-,+-*+*)+U-+0U10+
+!AAA
+1010
+0AQs
+876#
+@@Qa
+qaaa
+KKKC
+P@@@
+K;;C
+@@00
+<<=C
+MMM#
+]]]#
+]]]#
+HI:c
+@@@0
+00  
+]]]d
+P@00
+\]M%
+MMMd
+LLLC
+KKKD
+JII#
+P@  
+PPPP
+    
+P@0 
+Q0  
+    
+!11A
+1111
+A111
+9))C
+aaQQ
+0AAA
+A111
+1111
+1111
+1111
+1111
+1111
+    
+1111
+ 0@P
+AAA0
+@@P@
+00  
+P@@Q
+aaab
+ 00@
+qqqq
+aaaa
+aaaq
+qqaa
+'''#
+'''C
+qQAA
+(((D
+(((d
+n^NC
+N^nd
+  00
+0000
+0000
+000 
+0010
+c1  
+  0 
+  00
+0   
+bRQ@
+    
+557i
+aaqr
+  @a
+   !
+!1!!
+TUD5
+P00 
+ 1Aa
+***	
+    
+bB2R
+cB! 
+ 11 
+    
+ 00@
+dcB!
+!!"c
+			d
+			c
+			d
+			D
+````
+___%
+___E
+_^^f
+    
+    
+    
+    
+rrbP
+211C
+3Std
+=;I(
+#CC4
+`P@ 
+ZIGf
+0@@ 
+&:J#
+J[\#
+[[[#
+P000
+^^^C
+*))#
+(((C
+(''C
+4A! 
+W\^#
+]mm#
+nn^#
+l[;c
+-NNc
+10/012
+=<;<=>)('()*a`_`ab-,+,-.edcdef! 
+ !"543456IHGHIJ98789:QPOPQR%$#$%&A@?@ABYXWXYZEDCDEF]\[\]^MLKLMNTKLUNMKTSNUVVSTSVU
+ 12>21054345698789:
++*)+,*
+#"!"(!("'&%$&.%.&-FEDCFDFCAACBAB@A@?
+"! 321654DCBD
+NMRQP!
+dc%$#*
+XWV[?
+\hgfK
+/0/..
+FEFGH
+^aZb`Za`aB
+ijoiiorirqroN
+vutsvtuzvuvz|z{|{zy)
+$	%	+%
+AAAA
+ AQb
+@A1B
+%5V&
+`P@0
+)Mne
+qQ@0
+,=^D
+ 00 
+ 0 0
+qqaq
+PP@ 
+`@0 
+q`pp
+<]~e
+AQ@ 
+~~nE
+^M<$
+pppp
+rqqa
+aQ@@
+sQ0 
+   0
+mm]e
+NN>D
+=Nn$
+.?N$
+PPP0
+0@Pp
+Q``p
+qsca
+oO_$
+@@0 
+%Gif
+String Pool Error 1
+String Pool Error 2
+String Pool Error 3
+String Pool Error 4
+Bacon
+Baguette
+Beef
+Bite you
+Boiled
+Bones
+Chewy finger
+Chewy meat
+Chicken
+Chocolate
+Chomp
+Chopped
+Consume
+Delicious
+Diced
+Din dins
+Dinner time
+Dissect
+Donut
+Easy meal
+Eggs
+Fajita
+Flay
+Food
+Fried
+Gnaw
+Gobble
+Gouge
+Grab you
+Hungry
+Ketchup
+Lacerate
+Lamb
+Lick
+Looking good
+Maim
+Marrow
+Massacre
+Meat biter
+Meaty
+Munch
+Murder
+Mutilate
+Nibble
+Om nom nom
+Pastrami
+Peeled
+Peppery
+Pizza
+Pork
+Potato
+Pudding
+Ravage
+Rend you
+Roasted
+Salted
+Sandwich
+Sauce
+Sausages
+Say cheese
+Sever
+Shredded
+Slaughter
+Slice you
+Slurp
+Snack food
+Snap bones
+Soup
+Stew
+Supper
+Sweet tooth
+Taco
+Tasty brain
+Tasty human
+Tasty morsel
+Tear apart
+Toasted
+Turkey
+Vegetables
+Yummy
+Always hungry
+Aisle blocker
+Ate all the pies
+Baby-back ribs
+Bad at sports
+Beached whale
+Beefcake
+Belly envy
+Big Bertha
+Billy twelve chins
+Binge drinker
+Bingo wings
+Big moobs
+Blimp
+Bloated
+Blubber
+Blubbernaught
+Bubbly personality
+Buffet warrior
+Butterball
+Can't do stairs
+Caution wide load
+Chef's best friend
+Cholesterol explosion
+Chubbs
+Chunky
+Couch potato
+Dead weight
+Destroyer of buffets
+Donut muncher
+Double-chin
+Dough-boy
+Dumpy
+Eat too much
+Eating disorder
+Extra large
+Fat bastard
+Fat sack of crap
+Fatty
+Feed my hunger
+Feeding frenzy
+Feel the paunch
+Flab wagon
+Flabby
+Flesh bag
+Furious appetite
+Get in my belly
+Gravy bloater
+Greasy
+Gross
+Gut lord
+Gut thumper
+Guzzle-guts
+Ham toucher
+Hambone
+Heart attack
+House cow
+It's glandular
+Jelly-belly
+Jumbo
+Just big-boned
+Lard arse
+Man boobs
+Meat bag
+Meatwad
+Mister Blob
+Mouth-breather
+One more bite
+Out of breath
+Paunch
+Pie master
+Porkbeast
+Pudge
+Saddlebags
+Second breakfast
+Stomach ache
+Swallow you whole
+Swamp donkey
+Sweat monster
+Thunder thighs
+Truffle shuffle
+Tubbs
+Wafer-thin mint
+Walking dumpster
+Where are my feet
+Wide load
+Ipso fatso
+BITE
+BLOOD
+BONES
+CHEW
+DEVOUR
+DIGESTED
+DISSECT
+FLESH
+GNAW
+GUTS
+HACK
+HOWL
+INGEST
+KILL
+MARROW
+MUNCH
+MURDER
+MUTILATE
+REND
+ROAR
+SAVAGE
+SLAKE
+SLAY
+SLICE
+TEAR
+VISCERA
+WOUND
+SALIVATE
+RUPTURE
+FLAY
+ASSAULT
+LUNGE
+MAUL
+PIERCE
+VIOLENCE
+ANGER
+RAGE
+FURY
+BUNNIES
+CUDDLES
+CUTE
+FLUFFY
+KITTENS
+NICE
+PINK
+PRETTY
+SLIPPERS
+UNICORNS
+WARM
+KISSES
+CANDY
+SMILES
+SUNSHINE
+LOLLIPOPS
+FRIENDS
+RAINBOWS
+BATIK
+BEADS
+BUNTING
+CAKES
+FABRIC
+KNIT
+KNITTING
+MAKING
+PAINT
+PATCH
+SEWING
+WATERCOLOUR
+NEEDLE
+THREAD
+SCISSORS
+TAPE
+CRAFT
+PENCIL
+BRUSH
+CANVAS
+BAKING
+CREATIVE
+MY LOVE
+DARLING
+HUNGER
+LONELY
+TOUCH
+BE MINE
+WILL
+MINE
+NEED
+LOVE
+WANT
+MELODY
+UNCHAINED
+TIME
+GOES BY
+SO SLOWLY
+FLAMBEE
+DEVILLE
+SAUTE
+ROAST
+CASSEROLE
+TOAST
+BAKE
+BOIL
+HEAT
+SIMMER
+COOK
+SOUP
+STEW
+REDUCE
+FRICASSEE
+PARBOIL
+GOULASH
+STIRFRY
+STROGANOFF
+SALAD
+PAELLA
+BARBEQUE
+LASAGNE
+CROISSANT
+STEAM
+BOHR
+MACH
+WATT
+CURIE
+DIRAC
+SAGAN
+TESLA
+VOLTA
+DARWIN
+EUCLID
+HUBBLE
+KEPLER
+NEWTON
+PASCAL
+PLANCK
+HAWKING
+PTOLEMY
+EINSTEIN
+ARISTOTLE
+FIBONACCI
+MENDELEEV
+ARCHIMEDES
+COPERNICUS
+PYTHAGORAS
+TURING
+PENROSE
+GALILEO
+BAKE
+BLAZE
+BOIL
+BURN
+COOK
+FIRE
+FLAMBEE
+HEAT
+IGNITE
+INCINERATE
+INFERNO
+MELT
+ROAST
+SAUTE
+SCORCH
+SEAR
+SIMMER
+TOAST
+EMBERS
+FLAMES
+SCORCH
+MAGMA
+SPARKS
+FURNACE
+BUBBLE
+STEAM
+MOLTEN
+IRIDESCENT
+COMBUST
+SMOLDER
+CAUTERIZE
+KINDLE
+SMOKE
+CREMATE
+KING
+SING
+PING
+RING
+DING
+MING
+SING
+THING
+SWING
+SCHWING
+UPPING
+DOWNING
+PUTTING
+FOOTING
+FARTING
+THINKING
+DRINKING
+SPORTING
+AMAZING
+POUNDING
+SHOUTING
+DANCING
+SPINNING
+FLINGING
+HAWKING
+PROPOSING
+COMPOSING
+BULLDOZING
+ASTOUNDING
+FRED
+BRED
+NOTED
+RENTED
+POTTED
+GRANTED
+COATED
+QUILTED
+MENTORED
+TRUNCATED
+EMACIATED
+UGLY
+SPRY
+FUNNY
+HONEY
+GUMMY
+TUMMY
+MUMMY
+RUNNY
+HAPPY
+SAPPY
+SNAPPY
+UTTERLY
+FRUITILY
+LOOPILY
+CALUMNY
+READILY
+MERRILY
+CHOPPILY
+FLOPPILY
+BRUTALLY
+FURIOUSLY
+WRETCHEDLY
+FUNNY
+CRUMMY
+STEADILY
+GLOOMILY
+CLOSELY
+INEVITABLY
+DUBIOUSLY
+SICK
+DRUG
+INFECT
+TUMOUR
+ULCER
+CARDIAC
+RENAL
+OPERATE
+AMPUTATE
+MEDICATE
+INFECTED
+SCARLET
+VERMILLION
+FLAME
+CRIMSON
+BURGUNDY
+ROSE
+CROCUS
+DAISY
+BUTTERCUP
+PANSY
+POPPY
+|}~}|{|z{
+qzqyzy
+ryqr
+urtruvuxvtwuxuwwt
+hijj
+gihg
+lhlgh
+gkglkk
+onmm
+npnop
+e^3_3^Z_5e5_3
+Z232Z[3454328e5e8d485[>2>[
+<4<2>
+dc8cd
+847<74
+cbb	
+c8::bc98789:
+b:'9':
+	ba'ab	`
+``	a`z
+\a\`\a(\{
+(''9){
+]]C{
+\(\*]()*C]%*%]%u
+"*)9")%*$*"$u
+%$%#&"#$&w
+1#1&
+#"!"
+!1#+!+#Dw
+HE1+1ED+!,,E+NHDHNPPO
+PNNMODKNMNKKDEKLMEJKLKJJEFE,FQLJFQJLQYA,!
+A!,GFQFG,ABG,BSYQYS
+QGQRS
+ RXSWSX
+TRXRT
+;<==
+;UWXWUVIXTXIU
+II@x
+6@I6
+6-@<?=?<>=/
+/=?6
+/>/?-6//.-/>0./0+
+}|~|
+ZYXYZ[^]\]^_ba`abcfedefgjihijknmlmnorqpqrsvutuvwzyxyz{<
+"! '&""&!!&$!$#$&%*)(/.**.)).,),+,.-210762261164143465:98?>::>99><9<;<>=BA@GFBBFAAFDADCDFEJIHONJJNIINLILKLNMRQPWVRRVQQVTQTSTVU
+CRASH
+CRASHING DOWN
+DEATH FROM ABOVE
+DO NOT ANNOY THE OPERA GHOST
+THINK OF ME AS YOU SAY GOODBYE
+Brains
+Bite
+Chew
+Dead
+Dying
+Eaten
+Hell
+Howl
+Hurt
+Meat
+Nail
+Pain
+Slice
+Tear
+Tooth
+Vomit
+Weak
+Violate
+Squeak
+Bile
+Sick
+Vomit
+Assault
+Biting
+Blood
+Chop
+Consume
+Devour
+Drool
+Evil
+Exult
+Filthy
+Finger
+Gravy
+Gruesome
+Guttural
+Hate
+Howling
+Infected
+Jackboot
+Jeer
+Kill
+Killing
+Lifeless
+Liver
+Moan
+Mutant
+Need
+Nuance
+Opaque
+Open
+Plague
+Prime
+Quarry
+Quick
+Reactive
+Rend
+Slaughter
+Stab
+Tension
+Twist
+Urge
+Vice
+Vicious
+Walking
+Distort
+Wound
+Xenon
+Miasma
+Yakuza
+Halitosis
+Yell
+Zoom
+Zygote
+BLAM
+BOOM
+Agile
+Hurry
+Lively
+Lover
+Nippy
+Panic
+Quickie
+Rapid
+Swift
+Trembler
+Zipper
+Spry
+Sudden
+Nimble
+Snappy
+Hasty
+Dash
+Rush
+Foul
+Chaos
+Crud
+Dirty
+Dung
+Faeces
+Filth
+Filthy
+Grimy
+Guano
+Muck
+Mucky
+Putrid
+Scum
+Scummy
+Sewage
+Stinky
+Unclean
+Crappy
+Stench
+Fetid
+Rancid
+Rank
+Mucus
+Axe wound
+Chop 'em up
+Chopper
+Cut 'em down
+Hack and slash
+Hatchet job
+Bite
+Chew
+Flay
+Gnaw
+Grab
+Maim
+Rend
+Snap
+Tear
+Vile
+Ooze
+Snip
+Chomp
+Gouge
+Munch
+Sever
+Slice
+Shred
+Wreck
+Nasty
+Cleave
+Gobble
+Pierce
+Ravage
+Bitten
+Behead
+Filthy
+Cripple
+Dissect
+Obscene
+Hateful
+Painful
+Lacerate
+Massacre
+Mutilate
+Disgrace
+Disfigure
+Masticate
+Rip apart
+Slaughter
+Contaminate
+Hating
+Lover
+Toys
+Player
+Robots
+Machines
+Science
+Books
+Learning
+College
+School
+Homework
+Kindness
+Brainy Boy
+Cat fan
+Fur ball
+Rolling
+Glasses
+Cookies
+Lullaby
+Poor me
+Slippers
+Move ZIG
+Jasper V2
+I can fly
+Four eyes
+Warm milk
+Big sister
+Precocious
+Red Tights
+Your fault
+Chair bear
+I upgraded
+Extra life
+Boss fight
+Teddy bear
+Story time
+Tuck me in
+Love my cat
+I feel tall
+Oscar scene
+Sleepy time
+Life of hurt
+Child genius
+Tell Candi I
+Stripy skirt
+Free at last
+Looking down
+Mind fingers
+Touching end
+I be rolling
+Best of five
+Make it quick
+Do your worst
+Stupid stairs
+Misunderstood
+Psycho man is
+You missed me
+You be hating
+Only two eyes
+Never popular
+Leaking a bit
+Best of three
+Little brother
+Hurt by Caesar
+Cute in Yellow
+Jasper mad now
+Driven to this
+I like cabbage
+Who needs legs
+You could stop
+Very loud bang
+OK then,
+cards
+Call it a draw
+Make your time
+Sad about Varla
+Blonde pigtails
+You hurt Jasper
+Mildly pathetic
+Floating is fun
+You look stupid
+Not in the face
+One last cuddle
+Lovely leg brace
+Cute as a button
+My cat hates you
+That offended me
+Want to be loved
+Give me a chance
+Lamb to slaughter
+My palace of pain
+Feed kitty for me
+I need a band aid
+Failed in the end
+For great justice
+Never had a chance
+Missing chess club
+You'll regret that
+Think nice thoughts
+Main screen turn on
+Capable of greatness
+I can see your house
+Only time I was boss
+I regret most things
+Might have wet myself
+I'm not even a mutant
+Wish I was a real boy
+My brain is beautiful
+Sorry for the children
+I need another quarter
+Good evening gentleman
+You don't have to shoot
+Go on then,
+keep typing
+I'll come back as a ghost
+Things could be different
+That's not even a real gun
+Somebody set us up the bomb
+Doesn't this seem odd to you
+Come here and I'll nibble you
+Is it too late to shake hands
+We could play Twister instead
+You have no chance to survive
+All your base are belong to us
+Why the big face
+-&-$J/
+/4K$
+$KJ7;8;7:,'&',+L
+ #"!"#
+$%&%$%&'
+(%)()%')+*+)'-,&,-.
+/)*)/
+14341
+7657
+97579:;
+>=<=>?BA@ABCCEDECBAF@FAGE=D=E<?IHI?>
+W\[\WX
+S^]^STOTSTOPURQRUV
+QPOPQR
+	edcdef_fef_`
+YXWXYZa`_`ab
+M6#6MN
+"! !"#
+'%&%';
+=-<-=.(
+&('(&
+ )!"!)$
++*,-+,+-.10/0125434563757384/0/467:9:78
+DCBCDE
+HGFGHIKFJFKH@?>?@A
+AJ?JAK	
+QRORQSPONOPQMBLBMDUNTNUP
+ZYXYZ[XWVWXY
+-,+,-.10/012.	,	.
+5434560
+0298789:=<;<=>9?:?91A/@/A1
+!3"3!CE@D@EAB:F:B8,F+F,B-C.C-;;3C3;5;G5G;HI5G5I68'7'8
+'272'
+!.C.!
+	B,3("(34A?1?AE<H;H<J-=;=-+>K<KML>MKJKNKJ<921297ORQROTPQ\QPOTSRSTUMEDEM>?>=>?E=+F=:?:=F
+.),). %
+ !$#"#$%$
+*,)-
+#%+#+%*
+/.0.-0-.,1
+1!4323458767896:8:6;2<4<2=:<=<:;
+0/0 
+# / #!
+#"!"#$'&%&'(%*)*%&(,+,(',-+-,.
+5*4*5)
+"*)+)*((')/(*'(%%&'&%$(/..%(3./.32-$%%.-2-.$-,-211,-,10=7<7=5567>5=654:>?9455>9>:9498;9:9;8
+wxv.
+vZeZvXwZwXte
+e[ftXtfufjuZYXYZ[XgfgXYe][]ed[\Y\[]YogoY\jfkngo
+ikjih
+nmno\monml
+pqrqpqrsm\^]^\~lm^~md_]^]_d'%_d%~^
+^'&%!&'%
+|~|}~
+b&!$b&$
+$!#"!
+$cbc$"ba`abca|`
+}{}|{y
+*)()
+>>=<
+:;:9?:;9H;H9IF?;HF;LHI?F
+HGKGHD
+FGKEGFED
+KEKJJ
+DEJ@ED@AJ
+A@@MBABCM
+CBCV
+BUVW
+QVQWVU
+QURS
+RPQRP
+POSQO
+323452m
+876T
+JI2I11IKHJ2H`J1K33KLG`HG_`3L44LMF_GF^_4M55MNE^FE]^5N66NOD]ED\]6O77OPC\DC[\7P88PQB[CBZ[8Q99QRAZBAYZ9R::RS@YA@XY:S;;ST?X@?WX;T<<TU>W?>VW=UV=V><U=&>?%=>%>&$<=$=%#;<#<$":;";#!9:!:" 89 9!
+8 '?@&?'(@A'@()AB(A)*BC)B*+CD*C+
+()+D,,DE
+&',E--EF
+$%-F..FG
+"#.G//GH	"
+ !/H00H2
+cadcba
+bcdaedef
+fegfgh
+hgihij
+jikjkl
+lkmlmn
+nmonop
+poqpqr
+rqsrst
+tsutuv
+vuwvwx~}
+|}~xwyxyzz{|zy{|{}w
+101233414355C4C5B
+89876;676;:
+=<=>??@=@?A;
+	%,#
+#$%	
+PQNOOzQN
+OxxyzLON
+LNJxOOLJ
+twxxJt
+wtvv
+wJst
+tuvutsLKJsJK
+vEKLMDvuvDEL
+MSsKK
+SUussSUVDuuUVFEDVFDE
+UHVFVHSTUHUTEF
+HIFI
+FTGHIHGTSR
+RSGT
+rpqR
+roporq[
+po[p
+[ono
+]]\[
+_^]]
+^`^_`
+_c`c
+d_c_d
+~}~d}~
+cdd~b
+fbfab~
+mmlk
+{lefafelmieli
+YmYimY
+{haeahgg
+aejhjei
+WjiiYWjW9
+WXYXW
+XYZ{ZY
+|{Z{||
+32345nmlmno876789rqpqrs
+fedefgg`e`gbba`abcciaicj"
+)1,0,1..-,-./
+h_k_h^^M_\^hM^KKLMLKJ^\]]K^F]\IJKK]IJIH]FGGI]DGF[HIIG[H[ZGDEE[G
+YZ[[EY
+YEZYXY
+@CBC@AAWC>A@WAUUVWVUTA>??UA:?>STUU?STSR?:;;S?<;:QRSS;QRQP;<==Q;
+OPQQ=O
+O=PONO
+tuu}
+vut}u{{|}|{zuvww{u
+wvyz{{wyzyxw
+wvx<
+YweYx[wY[uw
+XYu[gugtitgZ[YZYXfg[f[Ze\Xed\]ZX]X\lfZlZ]ighmflgf
+fjihjh
+nmlnl]nom
+rsqrqpn]__]\{on{n_d^\_\^'%dd%^{_
+_^'&%%
+&'!{|o
+}|{c
+a&!$&$a,
+"$!#"!,
+a$`$"bcaba`}cb
+|~}~|y
+*)()
+:;:9?:;9H;9IH?;EE;HLHI?E
+JHJL
+HDJDH
+EDJFDFGEKJ
+GFKCFCBG
+KKMCM
+CANACBA@
+NVANV
+@VUA
+PUPWUV
+TPTW
+QTPR
+53432m
+7876U
+,-,+
+PQ565QR
+6X5RC
+8W8XSC
+S787ST
+!$ !
+KACADC
+DABB
+=@A=?
+4=?=4>
+3?4?3>&34
+&J2J
+%J&%
+^u]u
+]_^]
+_]^_`
+w`_`wx_
+zwxzy
+YZZ[
+"/0/
+0",+/"+,L**+,
+(*(LF+*)()*+./.+)
+GFG(
+)('G'(G
+H'GH
+-)'H-')-.H
+I-HI
+jtjnji
+jtsskjpst
+~kks
+sspr
+pqrq
+rqpo
+aqbqao
+laol
+balcabcdl
+mclm
+egfefghh{
+g{h}
+Assault
+A drink needs me
+Abandonment issues
+Abbreviate this
+Able
+Aureole
+Able bodied
+About that day
+Abracadabra
+Abrasive iguana
+Absent-minded
+Absolute power
+Ache
+Action transvestite
+Aesthetically pleasing
+Affable chap
+Afraid of the dark
+Afraid of thumbs
+Afterlife
+Afterthought
+Age is against you
+Agreeable sloth
+Aim higher
+Aim lower
+Ain't got nobody
+Alan Smithee production
+Alcohol breath
+Alert
+Aliens exist
+Alive
+All done
+All is lost
+All over soon
+All work and no play
+Allegiance
+Allergic to bees
+Allergic to lead
+Allergic to nuts
+Alley-oop
+Ally
+Almost still alive
+Alone
+Always
+Always the bridesmaid
+Amass
+Amateur bassoonist
+Amateur night
+Ambiance
+American dream
+Amiable rogue
+Amorous inmate
+Ample buxom
+Ancestor
+Anchor
+And another thing
+Androgynous
+Anecdotal
+Angel of death
+Anger
+Angle grinder
+Angry
+Angry little men
+Angry monkey
+Ankle
+Ankle biter
+Another day
+Another fine mess
+Anthill
+Anti-establishment
+Anxious about shoes
+Any last words
+Apex
+Apology
+Approach putt
+Approach with caution
+April fools
+Aptitude
+Arcane
+Arch
+Archimedes screwed it up
+Archipelago
+Archive
+Are you afraid
+Are you feeling lucky
+Are you really still here
+Area
+Areola
+Aristotle
+Armchair general
+Arranged marriage
+Arrr Jim lad
+Artful
+Artful dodger
+Artistic impression
+Ask me anything
+Ask nicely
+Ask your father
+Ask your mother
+Asphalt
+Assholes and elbows
+Astounded
+Astride
+Athletic support
+Aurora
+Avarice
+Avert your eyes
+Avian flu
+Avocado
+Avoid cheap sushi
+Away
+Awesome
+Awful aroma
+Awful upload
+Awkward silence
+Axiom
+Backbone
+Backdoor slider
+Backhanded compliment
+Back-stabber
+Bacon
+Bad goatee
+Bad kitty
+Bad news
+Bad romance
+Bad start
+Bad touch
+Badge
+Bait
+Balls for monkeys
+Ban hammer
+Ban this sick filth
+Banal goat
+Bang heads together
+Banshee
+Banzai battle
+Barbarian
+Bare
+Barely legal
+Barking at Dennis
+Baroque
+Barrel
+Barrel scrapings
+Bases are loaded
+Basket catch
+Bastards got me down
+Bat dressed as a man
+Battered and bruised
+Batting average
+Batting collapse
+Battle
+Be aggressive
+Beans talk
+Beard envy
+Bear-hug
+Beaten eggs
+Beating heart
+Beauty queen
+Bed and brainfeast
+Beef jerky
+Beer cures mutants
+Beg for mercy
+Beggar
+Believable psychic
+Bells and whistles
+Belly-ache
+Beloved monster
+Bench warmer
+Bend
+Bend or break
+Beneficial
+Berkshire Hunt
+Best friends
+Best friends forever
+Best of British
+Bet your life
+Better call Saul
+Better off dead
+Better stop trying
+Better type fast
+Between jobs
+Beware of the dead
+Big boots
+Big dog
+Big red wig
+Big sale
+Bile
+Billy the kid
+Binge drinker
+Bingo batwings
+Biodegradable
+Birds
+Birthday suit
+Bit of alright
+Bite
+Bite marks
+Bite your tongue
+Battered fish
+Bitter pill
+Bitumen
+Bitter lemon
+Black and blue
+Black cat
+Black fedora
+Blasphemy
+Blast off
+Blaze of glory
+Bleak outlook
+Bleed out
+Bleeding heart
+Blemish
+Blimp
+Bind
+Blind
+Blind navigator
+Blinding insight
+Blinking in the sunlight
+Blitz
+Bloated budget
+Blood for shampoo
+Bloodthirsty
+Bloody Mary
+Blowback
+Bludgeon
+Blue in the face
+Blues singer
+Blunder
+Blur
+Boil
+Boll weevil
+Bones
+Bonkers
+Bonus
+Book eater
+Boom bang bang
+Boomslang venom
+Boot-licker
+Bonny
+Born
+Borrowed time
+Smelly pot plant
+Bottle top
+Bought this on sale
+Bouncing back
+Braggart
+Brain dumps smell bad
+Brains for dinner
+Brave the cold
+Bread winner
+Breakfast
+Breed apart
+Bribe
+Bribery would work
+Bridges burning
+Brigadier
+Bright
+Bright idea
+Brimming with confidence
+Bring out the gimp
+Bring out your dead
+Briskly
+Broke out of rehab
+Broken home
+Broken toys
+Broken wrist
+Brink of destruction
+Brothers
+Brown
+Bruise
+Bruised ego
+Brush with death
+Brushed velvet
+Brutal
+Brute
+Bucolic
+Bullet allergy
+Bullets hurt
+Bumrush
+Bungle
+Bunny boiler
+Burial
+Buried elephant
+Burlap sack
+Burn
+Burn this letter
+Burnt offerings
+Burnt out
+Bury me deep
+Bury the hatchet
+Bush lurker
+Busybody
+Buttered apples
+Butter-face
+Butterfly hurricane
+Buzzer beater
+Bye bye
+Byzantine
+Cadaver
+Cake or death
+Cakewalk
+Calamity
+Call me
+Call of dirty
+Callous
+Camouflage
+Cankers and medallions
+Can't handle the truth
+Can't remember their faces
+Can't sleep
+Can't touch this
+Capital
+Capitalism rules
+Carbuncle
+Cardinal sin
+Carnivorous
+Carrot and stick
+Casket
+Casting call
+Cat dressed as a woman
+Cat nap
+Catastrophe
+Catatonic emu
+Catch an edge
+Caterwaul
+Cathartic violence
+Caught and bowled
+Caught by your mom
+Caustic social commentary
+Caveman
+Ceiling dancer
+Cephalopod
+Chance encounter
+Chaos
+Chaos theory
+Chaos unleashed
+Char
+Character assassination
+Charge
+Charismatic
+Charity
+Charm
+Charming
+Chastity belt
+Chat bot
+Cheap
+Cheap shot
+Cheater
+Cheats use guns
+Check out my abs
+Checkmate
+Chemical reaction
+Chesty cough
+Chicken
+Chicken chaser
+Chico time
+Chill
+Chimney sweep
+Chin
+Chinless wonder
+Chip tunes
+Chitinous
+Chloroform
+Chocolate mine
+Chocolate teapot
+Choir invisible
+Chopped to pieces
+Chop-suey
+Circumference
+Circus catch
+Cirrus
+Citation needed
+Clammy palms
+Clamshell
+Class act
+Clean
+Clean bowled
+Clean break
+Clean up
+Clench
+Close to the bone
+Closely fought
+Closet midget
+Closing time
+Closure
+Cloud
+Cloud of stink
+Cloudy weather
+Cloven-hoofed beast
+Clover
+Club foot
+Clue
+Clueless
+Clumsy busker
+Clumsy fingers
+Coal
+Coffin prejudice
+Coil
+Coiled spring
+Cold
+Cold sweat
+Colin the dog
+Collapse
+Colon
+Colorful language
+Colosseum
+Come back brighter
+Come closer
+Come closer baby
+Coming up roses
+Commend me please
+Compliments
+Compound nervous breakdown
+Con artist
+Concealed weapon
+Confess your sins
+Confusing parentheses
+Convincing argument
+Cool shades bro
+Copperhead
+Corked bat
+Corn has ears
+Cornucopia of glory
+Corporation
+Costly diversion
+Cough
+Coughing up blood
+Could eat a horse
+Could murder a brew
+Courtesy
+Covered in bees
+Covered in filth
+Covering fire
+Coward
+Cowardly wizard
+Cows go moo
+Crap they have guns
+Crappy birthday
+Craving
+Crazy
+Creative juices
+Creative thinking
+Creepy
+Creepy creeps creeping
+Crescendo
+Cretin
+Crevice
+Crew
+Crime
+Crime pays quite well
+Criminal taste in clothes
+Criminally insane
+Crimson
+Crisped up nicely
+Critically acclaimed
+Crooked dealer
+Crossed wires
+Cruel
+Crushing defeat
+Crust
+Cry for help
+Cry me a river
+Cry more
+Crybaby
+Cucumber confusion
+Cull the weak
+Cult hero
+Cup of tea
+Curry night
+Curse
+Curse my name
+Cusp
+Cut the crap
+Cut-purse
+Cyanide
+Daddy issues
+Daddy never loved me
+Daisy Cutter
+Damage
+Damnation
+Damned if you do
+Damned if you don't
+Dance
+Dance like nobody's watching
+Dancing queen
+Dandruff
+Dandy highwayman
+Danger zone
+Dangerous
+Dangle
+Dapper gent
+Dare
+Dark
+Darkly comic
+Daschund
+Dashing bold adventure
+Daylight hooker
+Dead
+Dead again
+Dead before dawn
+Dead dog
+Dead man walking
+Dead men don't wear pants
+Dead ringer
+Dead sexy
+Dead to rights
+Dead weight
+Dead witches
+Deal with the devil
+Death from above
+Death is cheap
+Death rattle
+Death sentence
+Death-row name
+Debt
+Debt collector
+Decay
+Deck of cards
+Decrepit
+Deeper underground
+Deep-fried eyeballs
+Defenseless
+Deja vu
+Delaying the inevitable
+Delectable
+Denied
+Dennis is the main man
+Dennis saves trees
+Dent
+Deny everything
+Depravity
+Desert island
+Desk job
+Desperate to be loved
+Desiccated
+Devastate
+Devil's advocate
+Devious
+Devoured by a grue
+Diabolical schemes
+Diagnosis mutant
+Did I miss anything
+Did that hurt
+Did you miss me
+Didn't think this through
+Diligent
+Ding dong
+Dingo
+Dinner service
+Dip-dyed
+Dire
+Direct access
+Directorial debut
+Dirtbag
+Dirty
+Dirty pigeons
+Dirty weekend
+Diseased mind
+Disgrace
+Disgraceful behavior
+Disorder
+Disorderly conduct
+Divinity
+Divorced from reality
+Dizzy heights
+Do a barrel roll
+Do geese see god?
+Do it tomorrow
+Do not annoy the opera ghost
+Do or do not
+Dodgy hitbox
+Does anyone know Kung fu
+Does he look like a bitch
+Doggerel
+Dolorous
+Dolt
+Donkey sanctuary
+Don't call me Shirley
+Fool with a plan
+Don't come back
+Don't do that again
+Don't fancy yours much
+Don't flinch
+Don't like Mondays
+Don't look behind you
+Don't mean to be forward
+Don't wear that again
+Doom monger
+Doomed venture
+Doorstop
+Doping scandal
+Dot ball
+Double
+Double bogey
+Double dribble
+Double helix
+Double jeopardy
+Double-tap
+Doubt
+Doubtful debutant
+Doubting Thomas
+Down
+Down in front
+Draft dodger
+Drag
+Dread
+Dream crusher
+Dreaming of happier times
+Drenched
+Dressed by your mum
+Dressed to kill
+Dribble
+How 'bout a ride
+Dribbling blood
+Driftwood
+Drinking problem
+Drip drip drip
+Dripped sauce on your blouse
+Dripping
+Driven crazy
+Driving range
+Drop dead gorgeous
+Drop the bass
+Drop the keyboard
+Drought
+Drowning
+Drunken apology
+Dry your eyes
+Dubious
+Dubious plan
+Ducks are laughing
+Ductile
+Due process
+Dufus
+Dulcet tones
+Dumb
+Dumb as nails
+Dune buggy
+Dung
+Durable
+Dust bath
+Dusty in here
+Dusty lunchbox
+Duty calls
+Dying to meet you
+Dystopia
+Each
+Eager
+Eagle-eyed
+Earache
+Early
+Early adopter
+Ease
+Easy does it
+Eat this
+Eat your words
+Eccentric
+Echo
+Ecstatic
+Ectoplasm
+Edge
+Educational
+Effective
+Effervescent
+Effort
+Egg and spoon race
+Egg roll
+Eggshells
+Egomaniac
+Egregious
+Eight lives left
+Eight minute mile
+Eject
+Eke out
+Elect another idiot
+Electric boogaloo
+Electric sheep dreams
+Elegant solution
+Element
+Elementary my dear
+Elephant disco
+Elevate
+Elf hat
+Elope
+Emasculation
+Embarrassing photograph
+Embers
+Embrace your anger
+Emergency
+Emergent intelligence
+Emotional music
+Empathy is weakness
+Emphatic
+Empire
+Empty vessel
+Emulate
+End of days
+End of year clip show
+Endless
+Endless baguette
+Endless runner
+Ends
+Enemy spotted
+Ennui
+Enter
+Enter the mutant
+Entropy
+Envious
+Envy
+Environmental catastrophe
+Epic
+Epic failure
+Epic loot
+Epilogue
+Episodic
+Equal rights now
+Error
+Error-strewn
+Erudite
+Escalate
+Ether habit
+Eulogy
+Euphoric tortoise
+Euthanasia
+Even dogs hate you
+Eventual
+Eventually you get old
+Ever
+Every
+Every which way
+Everybody dies
+Everybody's dead Dave
+Everyone hates you
+Everyone's a critic
+Everything is not yet lost
+Everything is wonderful
+Everything's ruined
+Evict
+Evil
+Evil dead
+Evil incarnate
+Evocation
+Excellence through beer
+Exchanging pleasantries
+Excuse me
+Exit stage left
+Exit wound
+Expect pain
+Exploding for you
+Exploitation
+Extreme justice
+Extremely cold in here
+Exultation
+Eyelet
+Fabulous
+Face
+Face down
+Face punching
+Faded
+Fail
+Fairway bunker
+Fake
+Fake moustache
+Fake your own death
+Fall of wicket
+Fall to pieces
+Fallen angel
+Fallen from grace
+Familial
+Family feud
+Famished
+Famished fanatic
+Famous last words
+Fanatic
+Fancy a snog
+Fancy pants
+Fantastic
+Fantasy
+Fart noises
+Fast bowler
+Fast food
+Fasting to feasting
+Fat cat
+Fat lip
+Fatality
+Fatuous flattery
+Fear
+Fearsome teeth
+Fear the reaper
+Fearsome
+Feast on the living
+Feculent
+Feeble
+Feeding frenzy
+Feel the pinch
+Feeling sleepy
+Femur
+Ferocious
+Fertilizer
+Festering wound
+Fetid
+Fetid feet
+Fetish
+Feudal warfare
+Fever
+Fiddling
+Fiendish
+Fierce indigestion
+Fifteen minutes of pain
+Fifty-fifty chance
+Fight
+Fight the power
+Fighting dirty
+Fighting for survival
+Figure of speech
+Film buff
+Filth wizard
+Filthy thoughts
+Final
+Find your center
+Finders keepers
+Finer things in life
+Finger food
+Finish him
+Finish me quick
+Fire
+Fireflies
+Fireman
+Firing squad
+First and ten
+First base
+First blood
+First date
+First draft
+First offence
+Fish sticks
+Fishing for compliments
+Fissure
+Fist bump
+Fist fight
+Five finger discount
+Five minute lap dance
+Fizzy make feel good
+Flagrant foul
+Flair player
+Flak jacket
+Flame grilled
+Flames
+Flammable
+Flashbang
+Flee while you can
+Flickering
+Flimsy
+Flinch
+Flip the bird
+Flirtatious
+Flirty
+Flock of seagulls
+Flock together
+Flog
+Focused
+Foil
+Foiling plots
+Follow my lead
+Follow-through
+Folly
+Fool for a lifetime
+Foolish pride
+Foreshadowing
+Forever alone
+Forget the glamour
+Forgotten
+Forgotten birthday
+Fork handles
+Fortune is smiling
+Foul play
+Foul stench
+Foul-mouthed mother
+Founding father
+Four candles
+Four minute warning
+Foxhole
+Foxy
+Fractured clavicle
+Frantic
+Frantic fingers
+Freak show
+Freaky eye thing
+Free
+Free hugs
+French kiss
+Frenzied
+Fresh meat
+Freud was right
+Friend request
+Friend request denied
+Fringe
+Frog monsoon
+Frontier salesman
+Frontier spirit
+Frosty reception
+Fruit Salad
+Fruitless
+Fuel for the fire
+Full toss
+Fumigate
+Functioning drunk
+Funeral party
+Fungus
+Funk
+Furious
+Furious anger
+Furious giraffe
+Furniture
+Furtive
+Furtive shuffle
+Furry
+Fury
+Fusion
+Futile
+Gallows
+Gallows humor
+Gambit
+Gamble
+Gambler's fallacy
+Gangrene
+Garden
+Gargoyle
+Juggernaut
+Garish
+Garish outfit
+Gas mask
+Gas the pigs
+Gasping for breath
+Gatekeeper
+Gaze into my fist
+Gaze into the abyss
+Gear
+Geek
+Generous banker
+Gentle ministrations
+Geographical
+George loves jelly
+Gestalt
+Gesundheit
+Get gone
+Get knocked down
+Get off my sofa
+Get out of here
+Get to the point
+Get well soon
+Get yourself looked at
+Getting riled up
+Ghost whisperer
+Ghostly apparition
+Ghostly image
+Ghoul
+Ghouls unite
+Giant
+Gibbering idiot
+Gift-wrapped ghoul
+Gigantic
+Giggle
+Gimme some sugar
+Gimp
+Gimp suit
+Gin and tonic
+Ginger
+Ginger fury
+Gingivitis
+Give it up
+Give me a hug
+Give me lemons
+Give up and sleep
+Give yourself a handshake
+Giving you the creeps
+Glass jaw
+Gloom
+Glow
+Glutton for punishment
+Gluttony
+Gnu in a canoe
+Go away
+Go go go
+Goblin
+Godless heathens
+Goggles
+Golden duck
+Golden shower
+Goldfish
+Gone
+Gone again
+Gone from bad to worse
+Gonzo
+Good enough
+Good listener
+Good looking
+Good luck
+Good news
+Good with words
+Goon squad
+Gooseberry
+Gopher ball
+Gore
+Goat curry
+Got a bad feeling about this
+Got the munchies
+Got to have a hobby
+Gouts of warm blood
+Grab
+Grab your brolly
+Grammar Nazi
+Granny shot
+Grasp
+Grasping banker
+Gratuitous
+Gratuitous nudity
+Grave digger
+Gravy
+Great
+Great balls of fire
+Great explosions
+Great shot kid
+Great vengeance
+Greed
+Greed is good
+Green hill zone
+Gregarious
+Gridlock
+Grim amusement
+Grim reaper
+Grimace
+Grin and bear it
+Grindhouse
+Grinning idiot
+Grip hard
+Grisly end
+Gristle sausage
+Groan-worthy
+Groovy dancer
+Growler
+Growling stomach
+Grubby urchin
+Grudge
+Gruesome
+Grumpy teenager
+Grunties
+Guerilla tactics
+Guess who
+Guessing game
+Guest list mishap
+Guest of honor
+Guilty
+Guilty conscience
+Gullible
+Gunpowder
+Guns are for wimps
+Gust
+Gutter rat
+Gypsy curse
+Ha Ha Ha
+Haberdasher
+Hack and slash
+Haiku
+Hair suit
+Hairpiece needed
+Hairy palms
+Half an unwell cephalopod
+Half century
+Half-baked plan
+Halitosis
+Hallowed ground
+Handed a hot one
+Hand-eye co-ordination
+Handsome
+Hang
+Hangover cure
+Haphazard
+Happy happy joy joy
+Happy hour
+Harpy
+Hasp
+Hat stand
+Hateful
+Hats for all
+Have you read my blog
+Have you seen my cat
+Head for the light
+Heads of state
+Headstrong
+Heap
+Heart attack mode
+Hearty breakfast
+Heat
+Heatwave
+Heaven on earth
+Heavy
+Heavy lifting
+Heavy-handed
+Heinous
+Hell is other mutants
+Hell to pay
+Hello
+Hello handsome
+Hello nasty
+Hello we're the Romans
+Help me
+Help you help yourself
+Helpdesk
+Here and now
+Heresy
+Heretical views
+Heroes don't wear tights
+Hidden depths
+Hide
+Hidebound
+High hopes
+High horse
+High noon
+High tops
+High voltage
+Highly trained rabbit
+Hip flask
+Hipster haircut
+Hired goons
+Hired help
+His and hers
+Hot leaded justice
+Hockey mask
+Hocus pocus
+Hole in one
+Hollow
+Hollow point
+Honest
+Honest lawyer
+Honestly
+Honorable end
+Hooked
+Hooligan
+Hope
+Hopeless case
+Hornet
+Horror
+Horror story
+Hot off the press
+Hot stuff
+Hot dog
+Hotel room
+Hotline
+Hound
+House of cards
+Hovel
+Hotelier
+How did this happen
+How far are we going
+Hubris
+Huge
+Hula skirt
+Human-only diet
+Humble pie
+Hunch
+Hunchback
+Hungry
+Hunter-gatherer
+Hunting party
+Hurdle
+Hurricane season
+Hurry up
+Hurry up and die
+Hurt me plenty
+Hurts donut
+Hush,
+they're sleeping
+Hymn
+Hyper intelligent donkey
+Hypnotherapy
+I am rubber,
+you are glue
+I am your father
+I can see you
+I hate agents
+I like your shoes
+I regret nothing
+I smell blood
+I sold photocopiers
+I was in 'Nam
+Ice breaker
+Ice Ice Baby
+Ichor
+Icon
+Iconoclast
+Identity
+Identity theft
+Idiosyncratic
+Idiot
+Idiotic zebra
+Idiots in charge
+Idle
+Idol
+Idolatry
+If I had a hammer
+Igloo
+Ignorance is bliss
+I'll Always Be Here For You
+Ill-advised comb over
+I'm also Spartacus
+I'm Brian
+I'm Spartacus
+I'm Spartacus too
+Imbue
+Immune to sarcasm
+Impact
+Impish
+Implausible
+Important
+Impossible
+Impure
+In your own time
+Inception
+Incognito
+Indefatigable
+Indigo
+Industrious
+Inept massage
+Inescapable
+Infant
+Infected crab alert
+Infection
+Infernal dance
+Inflated ego
+Injury time
+Ink blots
+Ink pot
+Inner city
+Innocent nibble
+Inquisitor
+Insane
+Insatiable
+Insect
+Insect repellent
+Inside the leather
+Insidious
+Instant impact
+Intense
+Intense ocelot
+Internet meme
+Intimidate
+Intimate
+Intimate details
+Intimate encounter
+Invasion
+Invincible
+Ipso facto
+Irascible
+Iris door
+Iris
+Irish heritage
+Iron age
+Irony
+Irregular army
+Irrelevant elephant
+Irritating cough
+Is this the end
+Island life
+Isotope
+It only hurts for a moment
+It was me what done it
+Itchy
+Itchy tasty
+Iteration
+Itinerant preacher
+It's astounding
+It's like sleeping
+I've fallen and I can't get up
+I've still got it
+Ivory
+Ivory tower
+Ivy league
+Jack in the box
+Jackal
+Jacket potato
+Jacuzzi
+Jaded
+Jaded
+Jailhouse
+Jail
+Jailbreak
+Japanese pop song
+Japery
+Javelin
+Jaguar
+Jawbone
+Jaw-dropping
+Jaywalker
+Jazz band
+Jealous husband
+Jealous wife
+Jedi mind tricks
+Jeered off the stage
+Jellied eels
+Jelly legs
+Jeopardy
+Jerk
+Jest
+Jester
+Jesus Christ Fenton
+Jettison
+Jezebel
+Jigsaw
+Jill killed Jack
+Jilted
+Jilted lover
+Jimmy cracked corn
+Jingoism
+Jinx
+Jive talker
+Joan played baseball
+Jockstrap
+Join
+Join us
+Joke shop
+Joke's on you
+Jolly Roger
+Jolt
+Journalist
+Jousting champion
+Judge
+Judo
+Judo chop
+Juggernaut
+Jugular
+Juice
+Juicy human
+Julia never liked you
+Jump
+Jumpers for goalposts
+Jumpsuit
+Jungle
+Jungle fever
+Junk
+Junk food
+Jurassic
+Jurisdiction
+Jury
+Just
+Joust
+Just imagine
+Just kidding
+Just one bite
+Just one more
+Just sleeping
+Justice
+Justifiable
+Juvenile
+Juxtaposed
+Juxtaposition
+Kamikaze
+Kangaroo surprise
+Karaoke
+Karaoke singer
+Karma
+Karma bites
+Kebab time
+Keel
+Keep calm
+Keep the change
+Keep warm
+Keratin
+Kerb crawler
+Kerosene
+Key ring
+Keyboard addict
+Keyboard warrior
+Keyboard troll
+Keyhole
+Kick
+Kick in the balls
+Kick-start
+Kidnap
+Kidnap victim
+Kidneys
+Kids today
+Kill
+Kill me
+Kill thrill cult
+Killing me loudly
+Killing mutants is deadist
+Killing mutants is racist
+Killing mutants is sexist
+Killing time
+Killing culture
+Kilohertz
+Kind politician
+Kind-hearted
+Kindling
+Kindly
+Kindred spirits
+Kinetic
+King
+Kinky Wednesday
+Kings and Queens
+King for a day
+Kingdom of the dead
+Kingmaker
+Kinks
+Kinky cuddle time
+Kippers for supper
+Kismet
+Kiss me quick
+Kissing you goodbye
+Kitchen sink
+Kitsch
+Klaxon
+Knee
+Kneecap
+Knees are disgusting
+Knife edge
+Knight
+Knock
+Knock knock
+Knock out
+Knock-on effect
+Know your enemy
+Know-it-all
+Knuckle-dusters
+Knucklehead
+Kodiak
+Kudos
+Kumquat smuggler
+Kung Fu
+La La La
+Labyrinth
+Lacking finesse
+Lackluster
+Lady boy
+Lair
+Lamb
+Lame duck
+Lance
+Language barrier
+Lapdog
+Lapsang Souchong
+Larynx
+Lashings of blood
+Last man standing
+Last rites
+Last wish
+Lasting effect
+Latchkey kids
+Laughing at you
+Laughing stock
+Lazy eye
+Lazy landlord
+Lead
+Lead weight
+Lead-lined coffin
+Leap into action
+Leaping lizards
+Leather on willow
+Leave me alone
+Leave this to me
+Leave us
+Lecherous
+Leech
+Leg before wicket
+Legend
+Leopard salesman
+Leotard
+Leper handshake
+Leprechaun
+Leprosy
+Let me help
+Let me touch you
+Lethal
+Lethargic
+Let's Be Friends
+Let's dance
+Let's face the music and dance
+Let's talk this over
+Letter from home
+Level-headed
+Lexicon
+Liar liar pants on fire
+Libby looks lovely
+Liberal leanings
+Library
+Library card
+Lice
+Life had taxes
+Light
+Lightning
+Like,
+totally
+Likely story
+Limbless
+Limp
+Leaky
+Limp as lettuce
+Limping leprosy
+Lingering death
+Lingering smell
+Link up
+Lint
+Liquid nitrogen
+Lisp
+Litterbug
+Livid
+Loan
+Loan shark
+Loathe
+Lobotomy
+Lobsters are fancy crabs
+Local knowledge
+Lollipops
+Lonely
+Long walk
+Look better dead
+Look don't touch
+Lookalike
+Looking for sailors
+Looking like rain
+Looks nasty
+Loose
+Loose cannon
+Loose lips
+Loosely screwed
+Loosen up
+Loser
+Losers do their best
+Loss
+Lost
+Lost at sea
+Lost cause
+Lottery winner
+Loud noises
+Loudest laugh
+Love and romance
+Love is like hate
+Love me
+Lucky
+Lucky charms
+Lucky ducky
+Lucky omen
+Luggage with legs
+Lumberjack
+Lump
+Lure
+Lurid
+Lurker
+Luscious
+Lush
+Lust
+Lust for life
+Luster
+Luxury
+Lynch mob
+Machete
+Machiavellian
+Mad man
+Mad rhymes
+Madness in the method
+Mafioso
+Maggots
+Magical sound shower
+Mag-lev Margaret
+Magma
+Magnetic personality
+Maiden over
+Main
+Malaise
+Malevolence
+Malice
+Malignant
+Malone lives
+Man dressed as a bat
+Manacle
+Manifest destiny
+Manifesto
+Manly knitwear
+Mantle
+Many hands
+Marco Polo
+Mardis Gras
+Marked man
+Master baker
+Maul
+Maximum
+May I be Frank
+May I eat you
+Maybe
+Maybe this time
+Mayhem strikes
+Mea culpa
+Meager portion
+Mean
+Mean-spirited
+Meant
+Meat hook
+Meathead
+Mechanic
+Media mogul
+Mediocrity strikes
+Meet my friend pain
+Melancholy
+Melon farmer
+Melt down
+Memory lapse
+Menacing monsters
+Mend your ways
+Mercy killing
+Mescaline dreams
+Mess
+Mess up
+Micturate
+Midas
+Midas touch
+Midlife crisis
+Might
+Might is right
+Might makes right
+Milk-drinker
+Million
+Mime artist
+Min max
+Mince
+Mind control
+Mindless vandalism
+Mire
+Mirage
+Mirror image
+Miserable jester
+Misery
+Misery
+Misfit
+Mississippi
+Mixed metaphors
+Mixed signals
+Moan
+Mob justice
+Mobile connection
+Moist
+Mollusk
+Mommy cries a lot
+Mom's basement
+Mongrels
+Monkey business
+Monkeys avoid you
+Monorail kitten
+Monsoon
+Monster mash
+Monstrosity
+Moon
+Moon on a stick
+Moonlight and music
+Morbid
+Morbid curiosity
+More tea vicar
+Mortal coil
+Most
+Mostly arm-less
+Mother dearest
+Motorcycle injuries
+Mould
+Moldy popcorn
+Mourn
+Mucus
+Muddy funsters
+Mundane
+Murder
+Murder of crows
+Muscle-memory
+Muscular
+Muster
+Musk
+Must we fight
+Mutant
+Mutant Liberation Front
+Mutant of interest
+Mutant shot the food
+Mutants are just hungry
+Mutants ate my hamster
+Mutants need love
+Mutants rule
+Mutate and survive
+Mutation
+Mutton dressed as lamb
+My arm fell off
+My face feels weird
+My head hurts
+My little buttercup
+My little friend
+Myriad
+Mystery guest
+Mystical
+Nagging doubt
+Nail
+Name
+Napoleon ate the pig
+Napoleon complex
+Narcissistic
+Nasty Rash
+Nausea
+Navel
+Near miss
+Nearly
+Necessary
+Neck
+Nick
+Necromancy rules
+Necropolis
+Need a hug
+Need backup
+Needless needles
+Neglect
+Negligee
+Neil before Bob
+Nemesis
+Nerd rage
+Nervous
+Nerve gas
+Nervous energy
+Nervous nineties
+Nervous twitch
+Nest
+Nest-egg
+Nettle
+Neural net
+Neurological
+Neurotic attitude
+Neutered
+Never
+Never called back
+Never satisfied
+Never say never
+Never stopped loving you
+Never trust mutants
+Newsflash
+Nexus
+Nice costume
+Nice guy Eddie
+Nice motor skills
+Nice try
+Nice try Einstein
+Niche appeal
+Nick of time
+Night owl
+Night watchman
+Nihilist
+Nil carborundum illegitemi
+Nimble fingers
+Nine
+Nine across
+Nine is never none
+Nine minute workout
+Nineteenth hole
+Ninjas never noticed
+Nipple madness
+Nitty gritty
+No more time
+No need to shoot
+Nobody cares
+Noisy
+Nomadic
+Nomenclature
+Nonchalant
+None
+None
+Noose
+Nosebleed
+Noseless
+Nostalgia
+Nosy neighbor
+Not a zombie
+Not again
+Not looking that good
+Not now not never
+Not on a first date
+Not quite dead
+Not sick just coffin
+Not the brightest
+Not the face
+Not this time
+Nota Bene
+Nothing is sacred
+Nothing matters
+Nothing up my sleeve
+Nothingness
+Nothing's what it seems
+Noticeable limp
+Noun frenzy
+Novice
+Now for the next question
+Now we eat
+Now you die
+Nuclear explosion
+Nuclear family
+Nugget
+Nuke the city
+Nullify
+Number
+Numbing bite
+Numpty
+Nutcracker
+Nuts to this
+Nymphomania
+Obelisk
+Obey the crab
+Objection!
+Oblivious
+Obnoxious oaf
+Obsessive compulsive
+Occult
+Oceanic explorer
+Octo-mutant
+Octopus
+Odds
+Odds or evens
+Odorless
+Oedipus
+Oedipus complex
+Offal
+Offend everyone
+Offer
+Office worker
+Off-side
+Ogre
+Oh for the wings of a dove
+Oh me oh my
+Oh no not again
+Oh the Shark has
+Oil slick
+Oily
+Okey dokey Dr Jones
+Old Man River
+Old people suck
+Old-school beats
+Olive branch
+Olives
+Ominous tidings
+Omnivore
+Once
+Once bitten,
+twice shy
+Once more with feeling
+One for the road
+One hundred haircuts
+One in a million
+One man went to mow
+One minute to live
+One of us
+One that got away
+One-sided
+Onion knight
+Only
+Only
+Only one
+Only the best
+Onomatopoeia
+Onset
+Oompah music sucks
+Opaque
+Open
+Open casket
+Open sesame
+Opposites attract
+Opposites attract
+Optimistic
+Optimistic ambush
+Optional extra
+Orange
+Ordure
+Orifice
+Original sin
+Orwellian
+Oscar-worthy
+Osmosis
+Ostentatious
+Ostracize
+Ouch that hurts
+Out for a duck
+Outer space
+Oven
+Over
+Over an oeuvre
+Over the top
+Over-easy
+Overkill
+Overpowered
+Overwhelmed
+Overwrought analogy
+Oxford comma
+Ozone
+Pack mentality
+Pack of liars
+Pact
+Paddle boat
+Paddle scoop
+Pain donation
+Pain so deep
+Painful conversation
+Painful process
+Paint the walls red
+Pale
+Pale feet
+Panic stations
+Panic-stricken
+Pantomime horse
+Pants or trousers
+Par for the course
+Parade of fools
+Paradox
+Parallelogram
+Paranoia
+Parasite
+Parkour
+Parliament of rooks
+Part-time gymnast
+Pass me my arm
+Pass the mic
+Passing Breeze
+Pastafarian Princess
+Pastiche
+Pat yourself on the back
+Pathetic
+Pathetic attempt
+Pawn
+Pea stalks
+Peace
+Peace Piece Peas
+Peace talks
+Peachy-keen
+Pearly gates
+Pebbles
+Penalty stroke
+Penultimate
+Peppermint
+Perfect game
+Perfect planning prevents
+Perimeter
+Personal
+Personal question
+Personal stylist
+Perspective vortex
+Pest
+Pet frog
+Phantasmagoria
+Phantom
+Phantom ballplayer
+Phase
+Pheasant plucker
+Phenomenon
+Phobia
+Photo finish
+Pick me up
+Pick up
+Pickled fingers
+Pickpocket
+Pickpocket
+Picture perfect
+Pie fight
+Pierce
+Pilloried
+Pillow talk
+Pinch hitter
+Pinch me
+Pinch me I'm dreaming
+Pine
+Pining for the fjords
+Pink
+Pinky swear
+Pins and needles
+Pint of brains
+Pirate
+Piss-poor performance
+Pistol-whipped
+Pit your wits
+Pitch perfect
+Pitching wedge
+Pitiable sight
+Pity the living
+Pizza
+Plaice invaders
+Plain clothes
+Play
+Play better
+Play it again Sam
+Playground taunts
+Playing favorites
+Pleasant
+Please cover your face
+Please recycle yourself
+Please use a mirror
+Plinth
+Plotting
+Plucked hen
+Plume
+Pockets jingling
+Pointless
+Pointless effort
+Pokey radish
+Poleaxe
+Political correctness gone mad
+Polka-dot
+Poncho
+Pong
+Poor
+Poor attempt at flattery
+Poor choice of colors
+Poor suction
+Poor table manners
+Popped shoulder
+Popularity
+Possibly problematic
+Post box
+Post-party blues
+Potatoes have eyes
+Pot-pie
+Poultry
+Practice makes perfect
+Pray for release
+Preach to the perverted
+Precious
+Preemptive strike
+Prehensile
+Prejudiced aardvark
+Prelude
+Press
+Pressure
+Pretty as a picture
+Pretty boy
+Pretty city boy
+Pretty teeth dear
+Priceless
+Pride
+Prime steak
+Primordial soup
+Private party
+Prize fighter
+Proof of death
+Protect and sever
+Proud to be green
+Prowl
+Pseudonym
+Puked my liver up
+Pull my finger
+Pull the other one
+Pumpkin carving
+Punch drunk
+Punching bag
+Punctuation kills
+Punish
+Punishment meeting
+Puppet
+Puppet master
+Pure
+Purgatory
+Pupate
+Purple
+Purple haze
+Push the red button
+Pushing up daisies
+Pushover
+Pushy parents
+Put some clothes on
+Put the kettle on
+PWNED
+Pyramid scheme
+Pythagoras couldn't count
+Q the winged mutant
+Quacks don't echo
+Quad bike
+Quadruple double
+Quaff
+Quaint
+Quality control
+Qualm
+Quantifiably sicker
+Quantum
+Quarantine
+Quarterback
+Quartz
+Quasar
+Quay
+Queen
+Queen mother
+Quell
+Querulous
+Query
+Quaternion
+Quest
+Question everything
+Queue
+Quick
+Quick and clean
+Quick march
+Quick on the draw
+Quickly now
+Quiet
+Quietly does it
+Quiff
+Quill
+Quilted toilet paper
+Quintessential
+Quip
+Quit
+Quite an effect
+Quite interesting really
+Quite the gentleman
+Quizzical
+Quota
+Rabbit punch
+Rabble rouser
+Rack
+Radioactive
+Rage
+Raging hunger
+Raider
+Rain
+Rain cloud
+Rambunctious
+Rancid cheese
+Random fusebox
+Rank amateur
+Rapid
+Rapid fire
+Raspberry ripple
+Rat bag
+Rat catcher
+Rat hormones
+Rather you than me
+Ratty
+Ravenous
+Raw meat
+React
+Read 'em and weep
+Ready to boogie
+Reagan would approve
+Reagent
+Real eye-opener
+Real name John Doe
+Really
+Rebel adventure
+Red herring
+Red lorry yellow lorry
+Red rum
+Red sky
+Red wedding
+Register your death
+Regular Casanova
+Relapse
+Relapse
+Release Roger
+Release the hounds
+Relentless chicken
+Religious differences
+Reminiscent
+Renovate
+Repeatedly riled
+Replacement brainstem
+Reprehensible
+Reptile
+Rescue attempt
+Research
+Respect is earned
+Rest in peace
+Restless legs
+Return of the mutant
+Reveal
+Revenge
+Revenge is sweet
+Reverse swing
+Reward
+Rhombus
+Rhyming couplet
+Rhythmic rebels
+Rib tickler
+Rift
+Rigged election
+Right
+Righteous
+Rigor mortis
+Rile
+Riled up
+Ring my bell
+Ring of fire
+Ringo was best
+Riot prediction
+Rip off
+Rising damp
+Risk
+Risky strategy
+Rivers of blood
+Rivulet
+Road rage
+Road trip
+Robber baron
+Robbery
+Rock the Kasbah
+Roll the bones
+Rollercoaster
+Rollercoaster buffoon
+Romance is dead
+Room service
+Rope
+Rorschach test
+Round
+Round head
+Roundhouse
+Roving
+Rubber skeleton
+Rubber soul
+Rude boy
+Rudimentary
+Rudy rang the wrong one
+Ruffians
+Rookie
+Rug burn
+Rugged charm
+Rugged good looks
+Ruin
+Ruminate
+Ruined my complexion
+Ruinously expensive
+Rule-breaker
+Rumor
+Rumpelstiltskin
+Run away
+Run rabbit run
+Running back
+Running commentary
+Running scared
+Russian roulette
+Rust
+Rusty
+Rusty nail
+Sack the writer
+Safe-word
+Salmon max
+Salt
+Salted trifle
+Salute
+Samurai
+Sanctimonious
+Sandbagger
+Sandwich
+Sane
+Sanitarium
+Sanity
+Sanity is relative
+Sashimi
+Satsuma celebrity
+Save me
+Saw tips
+Scared of aging
+Scared of chives
+Scared of the dark
+Scared of youth
+Scared yet
+Scarred
+Scary Santa
+Scavenger
+Schadenfreude
+Schizophrenia
+Schlock horror
+Scholar
+Science is fun
+Scorpion
+Scowl
+Scrambled eggs
+Scraps
+Scratch and sniff
+Screw the nine-to-five
+Screwball
+Scum
+Season finale
+Second innings
+See you shaking
+Seedy underbelly
+Seen too much
+Selfish bastard
+Senile
+Sense
+Sense of security
+Sensitive mangrove
+Sentence
+Septic
+Servile
+Settle down
+Seven minutes in heaven
+Sexy boy
+Shallow and unprofitable
+Shallow grave
+Shamble
+She sells sea shells
+Shellfish bastard
+Shifty Koala
+Ship shape
+Shirt and tie combo
+Shock tactics
+Shoot the weak spot
+Shopping for shirts
+Short circuit
+Shot
+Shorty
+Show time
+Shrinking violet
+Shuffle
+Shut your mouth
+Sibilant
+Sick and tired
+Sick beats
+Sick boy
+Sick note
+Sickening
+Silence is golden
+Silent but deadly
+Silly
+Silly mid-on
+Simple
+Simpleton
+Stimulating
+Sing and rejoice
+Sing me a song
+Sing or whistle just for fun
+Sing out of tune
+Single small balloon
+Single wing formation
+Sink or swim
+Siren
+Sisters
+Sitting duck
+Six minute steak
+Skid Row
+Skill shot
+Skin condition
+Skin of your teeth
+Skin-tight leotard
+Skittish insect
+Skullduggery
+Slam dunk
+Slaphead
+Sleep walker
+Slippery
+Slippery customer
+Slit your gizzard
+Slithering
+Slop
+Sloppy seconds
+Sloppy seconds
+Sloth
+Sloughed skin
+Slow burn
+Slow learner
+Slow reader
+Slow reader
+Sluice
+Smart idea
+Smash and grab
+Smoke me a kipper
+Smoking gun
+Smoking jacket
+Snake eyes
+Snapped banjo
+Snapped femur
+Sneak thief
+Sneaky
+Snooty
+Snowball
+So glad you came
+So long
+So much bleeding
+So much moaning
+So much screaming
+So tired
+Soaked
+Softly softly
+Softly spoken
+Solidarity
+Something borrowed
+Something fishy
+Something in your eye
+Sonar
+Sonic hedgerow
+Sore
+Sore privates
+Sorry to bother you
+Souls for sale
+Sound off
+Sour
+Sour mash
+Spangled pandemonium
+Spare some change
+Spatial instability
+Special mutant squad
+Spendthrift
+Spin doctor
+Spinal cord
+Spineless
+Spite
+Spiteful spies
+Spittle
+Splash Wave
+Splendid
+Split decision
+Split lip
+Sponge
+Spot
+Spring break
+Spurious
+Squall
+Squawking magpies
+Squeal
+Stack the deck
+Stain
+Stale bread
+Stand together
+Staring is rude
+Starry-eyed
+Startled by pandas
+Starving
+State
+Stately home
+Stay a while
+Stay forever
+Stay off the furniture
+Steadfast acting
+Steal
+Sterile warnings
+Stew
+Stew with a hat on
+Stick or carrot
+Sticky fingers
+Sticky wicket
+Still very moist
+Sting
+Sting in the tail
+Stink of fear
+Stinking cesspit
+Stinks here
+Stockholm syndrome
+Stoic
+Stolen kisses
+Stone heart
+Stones
+Stop farting
+Stop judging me
+Stop shooting
+Storm chaser
+Story-teller
+Straight shooter
+Strange brew
+Strangely charmed
+Streetwise
+Strength in numbers
+Stretch limousine
+Strictly platonic
+Strictly platonic relationship
+Strike you're out
+Struck dumb
+Struggle
+Struggling guitarist
+Struggling to stand
+Stun
+Stun-locked
+Stupid guy with no head
+Stupid says what
+Stupid sexy mutants
+Stop collaborate listen
+Success story
+Such vanity
+Such wasted lives
+Sucker punch
+Suffocate
+Sugar and spice
+Suicidal tendencies
+Sultry vixen
+Sunglasses are for outdoors
+Sunshine
+Sunshine lollipops rainbows
+Super donkey ball
+Surly
+Surprisingly relaxed lion
+Sushi
+Suspense
+Suspicious minds
+Swapped for a bike
+Sweat
+Swell guy
+Switch hitter
+Table setter
+Tablet device
+Tail-ender
+Taint
+Take a look inside
+Take me all the way
+Take the blue pill
+Take the red pill
+Take this
+Talent scout
+Talk to the hand
+Tall order
+Tall tales
+Tap out
+Tape-measure blast
+Tapioca
+Target
+Taskmaster
+Taste my wrath
+Tasteful tattoo
+Tasty
+Tasty treat for me
+Taught
+Taunt
+Tea for two
+Trace
+Tear
+Tear ducts
+Tears of a prawn
+Technical foul
+Technological determinism
+Tedious anecdote
+Teenage poetry
+Tempestuous seas
+Ten minute rule
+Tenacious foe
+Tense
+Tension
+Tepid
+Terra firma
+Terrible bandwidth
+Terrible teeth
+Terrible violinist
+Terrifying planet
+Terror
+Test
+Thanks for all the fish
+That hurts
+That makes you look fat
+That man is super
+That woman is wondrous
+That's my boy
+The best backrubs
+The End really is nigh
+Their they're there
+Theme
+There may be trouble ahead
+There their they're
+Thespian
+There is a house
+Thick as thieves
+Thin the herd
+Think of me as you say goodbye
+Think she likes me
+Thinking of Dennis
+Third strike sentence
+This counts as foreplay
+This is all your fault
+This is my wedding suit
+This is the end
+This will hurt
+Thoroughly thoughtful
+Three is a crowd
+Three minute egg
+Three point shot
+Three point stance
+Three strikes
+Threshold
+Tick Tick Tick Boom
+Ticker-tape parade
+Tiger sanctuary
+Time for a walk
+Time is fleeting
+Time out
+Timely intervention
+Timeshare holiday
+Timpani
+Tincture
+Tin-pot dictator
+Tip top
+Tip your hat
+Tipsy
+Tire
+Tired
+Toil
+Toiling away
+Toilet bowl
+Tone-deaf
+Tongue twister
+Tonight we die
+Tonsil hockey
+Too many enemies
+Tools
+Tooled up
+Tools of the trade
+Top dog
+Tortoiseshell
+Tortuous
+Torture
+Totally overpowered
+Touch me
+Touch of class
+Tough crowd
+Tough luck
+Towel thief
+Toxicity
+Transformation
+Transition defense
+Trappist monkey
+Trappist punk
+Travesty
+Treacle
+Treasure
+Trellis
+Trench warfare
+Trenchfoot
+Trend
+Trepidation
+Triangle offense
+Trick or treat
+Trick shot
+Tricksy gypsy
+Tried life hated it
+Trifle
+Trigger happy
+Trouble with buttons
+Troubled upbringing
+Troubling developments
+Troubling tidings
+True
+True
+Trust fund
+Trust issues
+Trust nobody
+Trust your feelings
+Try as you might
+Try harder
+Tryst
+Triplicate
+Tsunami
+Tunnel vision
+Turbine
+Turing test
+Turkey
+Turkish bath salts
+Turkish delight
+Turn this shit off
+Turn your back
+Turnkey solution
+Tuxedo
+Twin killing
+Twisted ankle
+Two is company
+Two minutes to midnight
+Two up two down
+Typography
+Tyrant
+Ubiquitous
+Ugly
+Urgent
+Ugly duckling
+Ugly is as ugly does
+Ukulele
+Ulcer
+Ultimatum
+Ultra violence
+Ulysses drank blood
+Ulysses was drunk
+Unanimous
+Unappreciated
+Unbound
+Uncle Charlie
+Uncle Sam
+Uncoordinated juggler
+Uncover
+Unctuous
+Unctuous tincture
+Undead have rights
+Undead squirrel panic
+Under
+Under the influence
+Underneath
+Understandable reluctance
+Undertaker
+Undo
+Undo
+Undulating surface
+Unemployed
+Uneven
+Unfair dismissal
+Unfashionable
+Unfurl
+Unicorn sandwich
+Unison
+Unity
+Unless
+Unnatural
+Unnatural urges
+Unplayable lie
+Unprovoked assault
+Unrecognizable
+Unreliable narrator
+Untidy appearance
+Untrustworthy weevil
+Unusual suspects
+Unwell cephalopod
+Unzip
+Up and down
+Up top
+Uppity outlaw
+Upright man
+Uproar
+Upstanding
+Upwardly mobile
+Urban myth
+Urchin
+Urgent
+Use sparingly
+Used
+Used for glue
+Useless
+Useless kangaroo
+Useless trombonist
+Usurp
+Utmost
+Utterly awful
+Vacuous human
+Vacuum
+Vain
+Valley of the dead
+Valve
+Van man
+Vandal
+Vanguard
+Vanity
+Vapid
+Variety
+Vary
+Vat of rancid cheese
+Veal
+Vehement
+Vein
+Velvet glove
+Vendetta
+Venetian
+Vengeance
+Vengeful
+Veni vidi vici
+Venomous phrase
+Vent
+Vent your frustrations
+Venusian
+Venus flytrap
+Verbal is lying
+Verisimilitude
+Verse and chapter
+Very itchy
+Very naughty boy
+Very slow fish
+Vestibule
+Viaduct
+Vibrant dolphin
+Vibraphone salesman
+Vibrating peripheral
+Vice
+Vulgar
+Vice squad
+Vicious rumor
+Victim
+Victim of voltage
+Victimless crime
+Victory march
+Victory shall be mine
+Victory through booze
+Victory through punctuation
+Vile
+Vim and vigor
+Vintage thighslap
+Violence
+Violent episode
+Violent koala
+Violent witness
+Virus
+Viscera
+Vitriolic outburst
+Vocabulary hero
+Volunteer
+Voluptuous
+Vomit stains
+Voodoo
+Voodoo doll
+Voracious appetite
+Vote for me
+Vowel
+Vowel anxiety
+Vulpine
+Vultures are circling
+Wafer-thin mint
+Wail
+Wailing cats
+Wailing guitar solo
+Wait for me
+Walk in the woods
+Walk this off
+Walking dread
+Walrus punch
+Wandering minstrel
+Ward the jungle
+Warts
+Wary
+Waspish
+Wasted virtue
+Watch your back
+Watchdog
+Water hazard
+Water on the knee
+Wax on wax off
+Waxing lyrical
+We are legion
+We fear change
+We have chemistry
+Weak
+Weak powers old man
+Weakling
+Wear
+Wearing thin
+Weasel of gnawing
+Weave
+Weeping widow
+Weightless
+Welcome to paradise
+Welcome to your doom
+Well preserved
+Welt
+Went into Ravenholm
+Wept
+We're all sinners
+We're all Spartacus
+Wipe
+Wet dog
+Wet handshake
+Wet the bed
+We've brought a flag
+What
+What the hell
+Whatever happens
+What's brown and sticky
+What's with the keyboard
+Whelp
+When in Rome
+Where's everyone else
+Where's your warrant
+Whipping boy
+Whisper
+Whitewash
+Who are you
+Who is Jack anyway
+Who is your daddy
+Who watches the watchmen
+Who's the real monster
+Whose pig is this
+Why are you still here
+Why fight
+Why must we fight
+Widower
+Wildcat formation
+Will this hurt
+Will you hold me
+Will you marry me
+Willpower
+Wilt
+Wimp
+Wince
+Wind your watch dude
+Winkle picker
+Winning ways
+Winter
+Winter is coming
+Wisp
+Wistful thinking
+Witchcraft
+Witch-hunt
+Witty banter
+Wobbly knees
+Woe is me
+Wolfgang time
+Woman dressed as a cat
+Wonderful
+Wonky donkey
+Wooden
+Wooden acting
+Woof woof
+Words will never hurt me
+Working is not working
+World eater
+Worm fodder
+Worms make great pets
+Worry
+Worst case scenario
+Would you lie to me
+Wound
+Wounded pride
+Wraith
+Wrath
+Waste
+Wretch
+Wriggle
+Wring my neck
+Wrinkly ninja
+Wry smile
+X marks the spot
+Xanadu
+Xenon
+Xenophobia
+Xmas time
+X-ray
+Xylophone fan
+Yabba Dabba Doo
+Yacht
+Yak-liver sausage
+Yankee
+Yankee doodle dandy
+Yappy dog
+Yardstick
+Year
+Yeast
+Yee haw
+Yell
+Yell all you want
+Yellow
+Yellow belly
+Yeoman
+Yes that's interesting
+Yesteryear
+Yet again
+Yeti sandwich paste
+Yodeling tuition
+Yorkshire
+You added nothing to humanity
+You and me in a tree
+You are ugly
+You ate my lunch
+You burnt my toast
+You can run but you can't hide
+You don't belong here
+You dress like a child
+You get used to it
+You lie about your height
+You ruined it all
+You ruined my coffee
+You smell
+You smell funny
+You spilled my drink
+You startled me
+You still here
+You stole my sandwich
+You suck
+You weren't there,
+You'll never take our freedom
+Young
+Young people suck
+Youngest
+Your bum looks big in that
+Your dad
+Your mom
+Your mum is a mutant
+Your own time you're wasting
+Your skills are weak
+You're no oil painting
+Youth is fleeting
+You've got red on you
+Zapped by lightning
+Zarathustra
+Zeal
+Zealot
+Zeitgeist
+Zenith
+Zeppelin
+Zero
+Zero tolerance
+Ziggurat
+Ziggy played guitar
+Zigzag
+Zinc
+Zip up
+Zipper trauma
+Zircon
+Zodiac
+ZOMG
+Zone
+Zucchini
+Zugzwang
+Zulu
+Zygote
+Wilderness
+Lucky guess
+Epicenter
+Universal apologist
+Brain dead
+Collateral damage
+Just killing time
+Growing pains
+Glowing reference
+Guns for hire
+Fight the power
+Gritted teeth
+Thirsty work
+Hedonist
+Crazy cat lady
+Spinster city
+Perforated
+Hold me down
+Fancy meeting you here
+Baby hates corners
+Aimless feet
+Leaf pile jumper
+Retail therapy
+Shopping cart disaster
+Profit margins
+Marriage proposal
+Dead wrong
+Dead right
+Pretty little thing
+Delicious specimen
+Drooling loon
+Disaster
+Bombardier
+Pickle
+Sauce
+French
+Bacon
+Roomy
+Paddling
+Piffling
+Bromide
+Oxygen
+Tennis
+Chickens
+One two three
+Ninety nine problems
+You're to blame
+Culpable
+Curio
+Carefree
+Unemployable
+Latent
+Nuanced
+Nautical
+Bottled water
+Fine wines
+Fine dining
+Beams
+Spiders
+Beelzebub
+Beetles
+Pincers
+Mandibles
+Got munchies
+Savory snacks
+Snake heads
+Cobra blood
+Pity me
+Bleeding finger
+Twilight
+Tinkle
+Timpani
+Big drum
+Small feet
+Smelly bit
+Should call it Hand-Egg
+Not really Football
+Flamboyance of Flamingos
+High ping bastard
+Low ping bastard
+Fly you fools
+Shake the room
+Fire in the hole
+Bunny hopper
+World class excuse engine
+Basket of Snakes
+Falling with style
+Sequential standing
+Rubicon
+Tabula Rasa
+The Motherlode
+Belgian bun
+Dutch courage
+German precision
+British manners
+French toast
+Parliament of rooks
+Seasons of mists
+Manslaughter of crows
+Science fiction
+Rom-com
+Chick-lit
+Young adult
+Serious literature
+Grown-up words
+You and those games
+Anapestic tetrameter
+My dog's got no nodes
+Explosion in a node factory
+Destructible crate
+Health pack
+Extra life
+Ammo pickup
+Skip level
+Alt tab
+Print screen
+Bogey man
+Expensive hat taste
+Flare crashed
+Thanks Obama
+Sanity clause
+Knife
+Fork
+Spoon
+Drums
+Guitar
+Violin
+Bassoon
+Cello
+Trumpet
+Tuba
+What does the fox say
+God Frog
+Rabbit
+Ducks
+Fish
+Wolves
+Whales
+Beluga
+Elephant
+Gazelle
+Horse
+Gerbil
+Hamster
+Shark
+Great white
+Tiger
+Lion
+Bears
+Accordion
+Alphorn
+Didgeridoo
+Trombone
+Euphonium
+Cornet
+Flugelhorn
+Bugle
+Harmonica
+Bagpipe
+Clarinet
+Oboe
+Crumhorn
+French horn
+Nose flute
+Flute
+Ocarina
+Recorder
+Sackbut
+Saxophone
+Whistle
+Harp
+Harpsichord
+Banjo
+Mandolin
+Piano
+Harmonium
+Organ
+Pipe organ
+Piccolo
+Hurdy-gurdy
+Pan-pipe
+Balalaika
+Dulcimer
+Octobass
+Celesta
+Cabbage
+Lettuce
+Cucumber
+Onions
+Green bean
+Parsnips
+Okra
+Beetroot
+Ginger
+Radish
+Olives
+Alfalfa
+Sprouts
+Avocado
+Pumpkin
+Eggplant
+Artichokes
+Leeks
+Spinach
+Aardvark
+Mongoose
+Jackal
+Leopard
+Caracal
+Polecat
+Baboon
+Mandrill
+Bushbaby
+Orangutan
+Chimpanzee
+Tamarin
+Tamarind
+Banana
+Apple
+Grapes
+Plums
+Lemur
+Zebra
+Caribou
+Antelope
+Hippo
+Hippopotamus
+Rhino
+Rhinoceros
+Hyena
+Buffalo
+Crocodile
+Alligator
+Turtle
+Tortoise
+Mouse
+Rats
+Giraffe
+Hedgehog
+Vulture
+Camel
+Dromedary
+Cobra
+Scorpion
+Tarantula
+Woodlouse
+Hyrax
+Impala
+Gecko
+Lizard
+Warthog
+Cheetah
+Porcupine
+Wildebeest
+Pangolin
+Gooseberry
+Tomato
+Cranberry
+Kiwifruit
+Pomegranate
+Pineapple
+Pear
+Coconut
+Guava
+Apricot
+Melons
+Owls
+Finches
+Blue tits
+Crows
+Swallows
+Swifts
+Rooks
+Blackbird
+Chameleon
+Sparrow
+Eagle
+Phoenix
+Vegas Baby
+Robin
+Ronin
+Buzzard
+Peregrine
+Falcon
+Badger
+Squirrel
+Otter
+Vole
+Hare
+Cling
+Film
+Foil
+Bags
+Goldfish
+Swans
+Toad
+Salmon
+Trout
+Plaice
+Tuna
+Dolphin
+Acuity
+Visual
+Movement
+Dancing
+Drifting
+Wafting
+Waving
+Thieving
+Thickness
+Buttercup
+Daisies
+Nights
+Dreams
+Clams
+Anemone
+Amoeba
+Stingray
+Failed at sitting
+I am the monarch of the sea
+Bad dates
+Digging in the wrong place
+Snakes
+Arms
+Legs
+Knees
+Toes
+Feet
+Head
+Hair
+Gums
+Teeth
+Molars
+Torso
+Thighs
+Calves
+Wrists
+Fingers
+Thumbs
+Eyes
+Nose
+Mouth
+Ears
+Neck
+Chest
+Tummy
+Stomach
+Lungs
+Heart
+Groin
+Abdomen
+Aorta
+Ventricle
+Atrium
+Bookshelf
+Doormat
+Clean desk
+Plug hole
+Tongue
+Kidneys
+Spleen
+Throat
+Trachea
+Bladder
+Intestine
+Skin
+Bone marrow
+Thyroid
+Adrenaline
+Pancreas
+Pituitary
+Pineal gland
+Hypothalamus
+Phalanges
+Wings
+Trotters
+Flippers
+Two weeks
+Beautiful bullets
+Blistering scars
+Don't know why
+Broomstick
+Shotgun
+Pistol
+Grenade
+Minefield
+Rifle
+Bomb
+The knives
+Trigger
+Itchy
+Scraping
+Barrel
+Lock
+Stock
+Lock,
+Stock and Barrel
+Clip
+Ammo
+Refill
+Came
+Camouflage
+Urban
+Stab
+Pierce
+More Brains
+Mental Gin
+Catch the leaf
+Male Crime Sim
+Flowers to Womans
+Chop-Chop
+Gas Gas,
+quick boys
+Voodoo economics
+Bar crawl
+KABOOM
+Typo
+Tyro
+Hup-Hup-Hup
+Show me those fingers
+Ape tunnel
+Pushing the button
+Nudging the envelope
+Cooked the golden goose
+Pickled onions
+Buttered nuts
+La plume de ma tante
+La table de mon oncle
+Condition Blunderbuss
+Punctuation Blunderbuss
+At the labor exchange
+Gone on holiday by mistake
+Vibrant Ribbon
+Unconventional typing style
+How's your bra?
+Go on Go on Go on Go on
+Space is big
+That's just peanuts to space
+Clucking bell
+I have a cunning plan
+Mad Jack McMad
+First world problems
+Nice Pumpkins
+Bang tidy
+That's what U gets
+I carried a watermelon
+I expect you to die
+You expect me to talk
+Not in Kansas any more
+Love the smell of Napalm
+Ready for my close up
+I'm mad as hell
+Not going to take it any more
+Fava beans and a nice Chianti
+Need a bigger boat
+STELLLLAAAAAAAA
+Houston,
+we have a problem
+The Eagle has landed
+Would you like me to seduce you
+Here's Johnny
+Open the pod bay doors
+It's people
+Don't call me Shirley
+Captain my captain
+Nobody puts baby in the corner
+ecdedcbfdbdfgogfgoninonihB
+5434565868577?8?7@@9?9@::!
+kjjNYqjkNjC
+qppC
+ZZO6
+OZF6
+O\S]S\FOESEOGFES]Q^Q]ESRQRSIGERIEGIJRQPPIRQ^UUPQ_U^IPHJIHPUTTHPJHKHTKKMJKTLMKLVTUTVLVMLU_VWMVVXWXV__`X
+;*;B<;
+ !!.-
+.!""/.!
+##"!
+$#/"%$%"%0/$
+&'%'&
+0%')'
+')((0'0(1?
+uxvxwv
+yxwxyy
+}|wy
+}{|}w|z|{z
+!*!"%
+!*)2)*
+ ) !$
+2)21 )(1()
+1(10
+('0'(
+0'0/
+'&/&'
+/&/.
+&%.%&
+.%.-
+#$#-++$#
+-$+,3,+1
+;D;<:
+;DCLCD.
+:C:;9
+LCLK:CBKBC-
+9B9:8
+KBKJ9BAJAB,
+8A897
+JAJI8A@I@A+
+7@786
+I@IH7@?H?@*
+5?575
+H?HG6545?==45G=?4=>=GEE>=4
+G>EFMFED
+U^UVM
+U^]f]^A
+T]TUL
+f]feT]\e\]@
+S\STK
+e\edS\[d[\?
+R[RSJ
+d[dcR[ZcZ[>
+QZQRI
+cZcbQZYbYZ=
+OYOQH
+bYbaPONOYWWNOaWYNWXWa__XWG
+aX_`g`_U
+oxop^
+nwno]
+mvmn\
+~mvu~uvP
+lulm[
+~u~}lut}tuO
+ktklZ
+}t}|kts|stN
+isikY
+|s|{jihisqqhi{qshqrq{yyrqX
+{ryz
+!/1/!
+"$#"
+!202!(1(!(13% ' %
+Assault
+A drink needs me
+Abandonment issues
+Abbreviate this
+Able
+Aureole
+Able bodied
+About that day
+Abracadabra
+Abrasive iguana
+Absent-minded
+Absolute power
+Ache
+Action transvestite
+Aesthetically pleasing
+Affable chap
+Afraid of the dark
+Afraid of thumbs
+Afterlife
+Afterthought
+Age is against you
+Agreeable sloth
+Aim higher
+Aim lower
+Ain't got nobody
+Alan Smithee production
+Alcohol breath
+Alert
+Aliens exist
+Alive
+All done
+All is lost
+All over soon
+All work and no play
+Allegiance
+Allergic to bees
+Allergic to lead
+Allergic to nuts
+Alley-oop
+Ally
+Almost still alive
+Alone
+Always
+Always the bridesmaid
+Amass
+Amateur bassoonist
+Amateur night
+Ambiance
+American dream
+Amiable rogue
+Amorous inmate
+Ample buxom
+Ancestor
+Anchor
+And another thing
+Androgynous
+Anecdotal
+Angel of death
+Anger
+Angle grinder
+Angry
+Angry little men
+Angry monkey
+Ankle
+Ankle biter
+Another day
+Another fine mess
+Anthill
+Anti-establishment
+Anxious about shoes
+Any last words
+Apex
+Apology
+Approach putt
+Approach with caution
+April fools
+Aptitude
+Arcane
+Arch
+Archimedes screwed it up
+Archipelago
+Archive
+Are you afraid
+Are you feeling lucky
+Are you really still here
+Area
+Areola
+Aristotle
+Armchair general
+Arranged marriage
+Arrr Jim lad
+Artful
+Artful dodger
+Artistic impression
+Ask me anything
+Ask nicely
+Ask your father
+Ask your mother
+Asphalt
+Assholes and elbows
+Astounded
+Astride
+Athletic support
+Aurora
+Avarice
+Avert your eyes
+Avian flu
+Avocado
+Avoid cheap sushi
+Away
+Awesome
+Awful aroma
+Awful upload
+Awkward silence
+Axiom
+Backbone
+Backdoor slider
+Backhanded compliment
+Back-stabber
+Bacon
+Bad goatee
+Bad kitty
+Bad news
+Bad romance
+Bad start
+Bad touch
+Badge
+Bait
+Balls for monkeys
+Ban hammer
+Ban this sick filth
+Banal goat
+Bang heads together
+Banshee
+Banzai battle
+Barbarian
+Bare
+Barely legal
+Barking at Dennis
+Baroque
+Barrel
+Barrel scrapings
+Bases are loaded
+Basket catch
+Bastards got me down
+Bat dressed as a man
+Battered and bruised
+Batting average
+Batting collapse
+Battle
+Be aggressive
+Beans talk
+Beard envy
+Bear-hug
+Beaten eggs
+Beating heart
+Beauty queen
+Bed and brainfeast
+Beef jerky
+Beer cures mutants
+Beg for mercy
+Beggar
+Believable psychic
+Bells and whistles
+Belly-ache
+Beloved monster
+Bench warmer
+Bend
+Bend or break
+Beneficial
+Berkshire Hunt
+Best friends
+Best friends forever
+Best of British
+Bet your life
+Better call Saul
+Better off dead
+Better stop trying
+Better type fast
+Between jobs
+Beware of the dead
+Big boots
+Big dog
+Big red wig
+Big sale
+Bile
+Billy the kid
+Binge drinker
+Bingo batwings
+Biodegradable
+Birds
+Birthday suit
+Bit of alright
+Bite
+Bite marks
+Bite your tongue
+Battered fish
+Bitter pill
+Bitumen
+Bitter lemon
+Black and blue
+Black cat
+Black fedora
+Blasphemy
+Blast off
+Blaze of glory
+Bleak outlook
+Bleed out
+Bleeding heart
+Blemish
+Blimp
+Bind
+Blind
+Blind navigator
+Blinding insight
+Blinking in the sunlight
+Blitz
+Bloated budget
+Blood for shampoo
+Bloodthirsty
+Bloody Mary
+Blowback
+Bludgeon
+Blue in the face
+Blues singer
+Blunder
+Blur
+Boil
+Boll weevil
+Bones
+Bonkers
+Bonus
+Book eater
+Boom bang bang
+Boomslang venom
+Boot-licker
+Bonny
+Born
+Borrowed time
+Smelly pot plant
+Bottle top
+Bought this on sale
+Bouncing back
+Braggart
+Brain dumps smell bad
+Brains for dinner
+Brave the cold
+Bread winner
+Breakfast
+Breed apart
+Bribe
+Bribery would work
+Bridges burning
+Brigadier
+Bright
+Bright idea
+Brimming with confidence
+Bring out the gimp
+Bring out your dead
+Briskly
+Broke out of rehab
+Broken home
+Broken toys
+Broken wrist
+Brink of destruction
+Brothers
+Brown
+Bruise
+Bruised ego
+Brush with death
+Brushed velvet
+Brutal
+Brute
+Bucolic
+Bullet allergy
+Bullets hurt
+Bumrush
+Bungle
+Bunny boiler
+Burial
+Buried elephant
+Burlap sack
+Burn
+Burn this letter
+Burnt offerings
+Burnt out
+Bury me deep
+Bury the hatchet
+Bush lurker
+Busybody
+Buttered apples
+Butter-face
+Butterfly hurricane
+Buzzer beater
+Bye bye
+Byzantine
+Cadaver
+Cake or death
+Cakewalk
+Calamity
+Call me
+Call of dirty
+Callous
+Camouflage
+Cankers and medallions
+Can't handle the truth
+Can't remember their faces
+Can't sleep
+Can't touch this
+Capital
+Capitalism rules
+Carbuncle
+Cardinal sin
+Carnivorous
+Carrot and stick
+Casket
+Casting call
+Cat dressed as a woman
+Cat nap
+Catastrophe
+Catatonic emu
+Catch an edge
+Caterwaul
+Cathartic violence
+Caught and bowled
+Caught by your mum
+Caustic social commentary
+Caveman
+Ceiling dancer
+Cephalopod
+Chance encounter
+Chaos
+Chaos theory
+Chaos unleashed
+Char
+Character assassination
+Charge
+Charismatic
+Charity
+Charm
+Charming
+Chastity belt
+Chat bot
+Cheap
+Cheap shot
+Cheater
+Cheats use guns
+Check out my abs
+Checkmate
+Chemical reaction
+Chesty cough
+Chicken
+Chicken chaser
+Chico time
+Chill
+Chimney sweep
+Chin
+Chinless wonder
+Chip tunes
+Chitinous
+Chloroform
+Chocolate mine
+Chocolate teapot
+Choir invisible
+Chopped to pieces
+Chop-suey
+Circumference
+Circus catch
+Cirrus
+Citation needed
+Clammy palms
+Clamshell
+Class act
+Clean
+Clean bowled
+Clean break
+Clean up
+Clench
+Close to the bone
+Closely fought
+Closet midget
+Closing time
+Closure
+Cloud
+Cloud of stink
+Cloudy weather
+Cloven-hoofed beast
+Clover
+Club foot
+Clue
+Clueless
+Clumsy busker
+Clumsy fingers
+Coal
+Coffin prejudice
+Coil
+Coiled spring
+Cold
+Cold sweat
+Colin the dog
+Collapse
+Colon
+Colosseum
+Colourful language
+Come back brighter
+Come closer
+Come closer baby
+Coming up roses
+Commend me please
+Compliments
+Compound nervous breakdown
+Con artist
+Concealed weapon
+Confess your sins
+Confusing parentheses
+Convincing argument
+Cool shades bro
+Copperhead
+Corked bat
+Corn has ears
+Cornucopia of glory
+Corporation
+Costly diversion
+Cough
+Coughing up blood
+Could eat a horse
+Could murder a brew
+Courtesy
+Covered in bees
+Covered in filth
+Covering fire
+Coward
+Cowardly wizard
+Cows go moo
+Crap they have guns
+Crappy birthday
+Craving
+Crazy
+Creative juices
+Creative thinking
+Creepy
+Creepy creeps creeping
+Crescendo
+Cretin
+Crevice
+Crew
+Crime
+Crime pays quite well
+Criminal taste in clothes
+Criminally insane
+Crimson
+Crisped up nicely
+Critically acclaimed
+Crooked dealer
+Crossed wires
+Cruel
+Crushing defeat
+Crust
+Cry for help
+Cry me a river
+Cry more
+Crybaby
+Cucumber confusion
+Cull the weak
+Cult hero
+Cup of tea
+Curry night
+Curse
+Curse my name
+Cusp
+Cut the crap
+Cut-purse
+Cyanide
+Daddy issues
+Daddy never loved me
+Daisy Cutter
+Damage
+Damnation
+Damned if you do
+Damned if you don't
+Dance
+Dance like nobody's watching
+Dancing queen
+Dandruff
+Dandy highwayman
+Danger zone
+Dangerous
+Dangle
+Dapper gent
+Dare
+Dark
+Darkly comic
+Daschund
+Dashing bold adventure
+Daylight hooker
+Dead
+Dead again
+Dead before dawn
+Dead dog
+Dead man walking
+Dead men don't wear pants
+Dead ringer
+Dead sexy
+Dead to rights
+Dead weight
+Dead witches
+Deal with the devil
+Death from above
+Death is cheap
+Death rattle
+Death sentence
+Death-row name
+Debt
+Debt collector
+Decay
+Deck of cards
+Decrepit
+Deeper underground
+Deep-fried eyeballs
+Defenceless
+Deja vu
+Delaying the inevitable
+Delectable
+Denied
+Dennis is the main man
+Dennis saves trees
+Dent
+Deny everything
+Depravity
+Desert island
+Desk job
+Desperate to be loved
+Dessicated
+Devastate
+Devil's advocate
+Devious
+Devoured by a grue
+Diabolical schemes
+Diagnosis mutant
+Did I miss anything
+Did that hurt
+Did you miss me
+Didn't think this through
+Diligent
+Ding dong
+Dingo
+Dinner service
+Dip-dyed
+Dire
+Direct access
+Directorial debut
+Dirtbag
+Dirty
+Dirty pigeons
+Dirty weekend
+Diseased mind
+Disgrace
+Disgraceful behaviour
+Disorder
+Disorderly conduct
+Divinity
+Divorced from reality
+Dizzy heights
+Do a barrel roll
+Do geese see god?
+Do it tomorrow
+Do not annoy the opera ghost
+Do or do not
+Dodgy hitbox
+Does anyone know Kung fu
+Does he look like a bitch
+Doggerel
+Dolorous
+Dolt
+Donkey sanctuary
+Don't call me Shirley
+Fool with a plan
+Don't come back
+Don't do that again
+Don't fancy yours much
+Don't flinch
+Don't like Mondays
+Don't look behind you
+Don't mean to be forward
+Don't wear that again
+Doom monger
+Doomed venture
+Doorstop
+Doping scandal
+Dot ball
+Double
+Double bogey
+Double dribble
+Double helix
+Double jeopardy
+Double-tap
+Doubt
+Doubtful debutant
+Doubting Thomas
+Down
+Down in front
+Draft dodger
+Drag
+Dread
+Dream crusher
+Dreaming of happier times
+Drenched
+Dressed by your mum
+Dressed to kill
+Dribble
+How 'bout a ride
+Dribbling blood
+Driftwood
+Drinking problem
+Drip drip drip
+Dripped sauce on your blouse
+Dripping
+Driven crazy
+Driving range
+Drop dead gorgeous
+Drop the bass
+Drop the keyboard
+Drought
+Drowning
+Drunken apology
+Dry your eyes
+Dubious
+Dubious plan
+Ducks are laughing
+Ductile
+Due process
+Dufus
+Dulcet tones
+Dumb
+Dumb as nails
+Dune buggy
+Dung
+Durable
+Dust bath
+Dusty in here
+Dusty lunchbox
+Duty calls
+Dying to meet you
+Dystopia
+Each
+Eager
+Eagle-eyed
+Earache
+Early
+Early adopter
+Ease
+Easy does it
+Eat this
+Eat your words
+Eccentric
+Echo
+Ecstatic
+Ectoplasm
+Edge
+Educational
+Effective
+Effervescent
+Effort
+Egg and spoon race
+Egg roll
+Eggshells
+Egomaniac
+Egregious
+Eight lives left
+Eight minute mile
+Eject
+Eke out
+Elect another idiot
+Electric boogaloo
+Electric sheep dreams
+Elegant solution
+Element
+Elementary my dear
+Elephant disco
+Elevate
+Elf hat
+Elope
+Emasculation
+Embarrassing photograph
+Embers
+Embrace your anger
+Emergency
+Emergent intelligence
+Emotional music
+Empathy is weakness
+Emphatic
+Empire
+Empty vessel
+Emulate
+End of days
+End of year clip show
+Endless
+Endless baguette
+Endless runner
+Ends
+Enemy spotted
+Ennui
+Enter
+Enter the mutant
+Entropy
+Envious
+Envy
+Environmental catastrophe
+Epic
+Epic failure
+Epic loot
+Epilogue
+Episodic
+Equal rights now
+Error
+Error-strewn
+Erudite
+Escalate
+Ether habit
+Eulogy
+Euphoric tortoise
+Euthanasia
+Even dogs hate you
+Eventual
+Eventually you get old
+Ever
+Every
+Every which way
+Everybody dies
+Everybody's dead Dave
+Everyone hates you
+Everyone's a critic
+Everything is not yet lost
+Everything is wonderful
+Everything's ruined
+Evict
+Evil
+Evil dead
+Evil incarnate
+Evocation
+Excellence through beer
+Exchanging pleasantries
+Excuse me
+Exit stage left
+Exit wound
+Expect pain
+Exploding for you
+Exploitation
+Extreme justice
+Extremely cold in here
+Exultation
+Eyelet
+Fabulous
+Face
+Face down
+Face punching
+Faded
+Fail
+Fairway bunker
+Fake
+Fake moustache
+Fake your own death
+Fall of wicket
+Fall to pieces
+Fallen angel
+Fallen from grace
+Familial
+Family feud
+Famished
+Famished fanatic
+Famous last words
+Fanatic
+Fancy a snog
+Fancy pants
+Fantastic
+Fantasy
+Fart noises
+Fast bowler
+Fast food
+Fasting to feasting
+Fat cat
+Fat lip
+Fatality
+Fatuous flattery
+Fear
+Fearsome teeth
+Fear the reaper
+Fearsome
+Feast on the living
+Feculent
+Feeble
+Feeding frenzy
+Feel the pinch
+Feeling sleepy
+Femur
+Ferocious
+Fertilizer
+Festering wound
+Fetid
+Fetid feet
+Fetish
+Feudal warfare
+Fever
+Fiddling
+Fiendish
+Fierce indigestion
+Fifteen minutes of pain
+Fifty-fifty chance
+Fight
+Fight the power
+Fighting dirty
+Fighting for survival
+Figure of speech
+Film buff
+Filth wizard
+Filthy thoughts
+Final
+Find your centre
+Finders keepers
+Finer things in life
+Finger food
+Finish him
+Finish me quick
+Fire
+Fireflies
+Fireman
+Firing squad
+First and ten
+First base
+First blood
+First date
+First draft
+First offence
+Fish fingers
+Fishing for compliments
+Fissure
+Fist bump
+Fist fight
+Five finger discount
+Five minute lap dance
+Fizzy make feel good
+Flagrant foul
+Flair player
+Flak jacket
+Flame grilled
+Flames
+Flammable
+Flashbang
+Flee while you can
+Flickering
+Flimsy
+Flinch
+Flip the bird
+Flirtatious
+Flirty
+Flock of seagulls
+Flock together
+Flog
+Focused
+Foil
+Foiling plots
+Follow my lead
+Follow-through
+Folly
+Fool for a lifetime
+Foolish pride
+Foreshadowing
+Forever alone
+Forget the glamour
+Forgotten
+Forgotten birthday
+Fork handles
+Fortune is smiling
+Foul play
+Foul stench
+Foul-mouthed mother
+Founding father
+Four candles
+Four minute warning
+Foxhole
+Foxy
+Fractured clavicle
+Frantic
+Frantic fingers
+Freak show
+Freaky eye thing
+Free
+Free hugs
+French kiss
+Frenzied
+Fresh meat
+Freud was right
+Friend request
+Friend request denied
+Fringe
+Frog monsoon
+Frontier salesman
+Frontier spirit
+Frosty reception
+Fruit Salad
+Fruitless
+Fuel for the fire
+Full toss
+Fumigate
+Functioning drunk
+Funeral party
+Fungus
+Funk
+Furious
+Furious anger
+Furious giraffe
+Furniture
+Furtive
+Furtive shuffle
+Furry
+Fury
+Fusion
+Futile
+Gallows
+Gallows humour
+Gambit
+Gamble
+Gambler's fallacy
+Gangrene
+Garden
+Gargoyle
+Juggernaut
+Garish
+Garish outfit
+Gas mask
+Gas the pigs
+Gasping for breath
+Gatekeeper
+Gaze into my fist
+Gaze into the abyss
+Gear
+Geek
+Generous banker
+Gentle ministrations
+Geographical
+George loves jelly
+Gestalt
+Gesundheit
+Get gone
+Get knocked down
+Get off my sofa
+Get out of here
+Get to the point
+Get well soon
+Get yourself looked at
+Getting riled up
+Ghost whisperer
+Ghostly apparition
+Ghostly image
+Ghoul
+Ghouls unite
+Giant
+Gibbering idiot
+Gift-wrapped ghoul
+Gigantic
+Giggle
+Gimme some sugar
+Gimp
+Gimp suit
+Gin and tonic
+Ginger
+Ginger fury
+Gingivitis
+Give it up
+Give me a hug
+Give me lemons
+Give up and sleep
+Give yourself a handshake
+Giving you the creeps
+Glass jaw
+Gloom
+Glow
+Glutton for punishment
+Gluttony
+Gnu in a canoe
+Go away
+Go go go
+Goblin
+Godless heathens
+Goggles
+Golden duck
+Golden shower
+Goldfish
+Gone
+Gone again
+Gone from bad to worse
+Gonzo
+Good enough
+Good listener
+Good looking
+Good luck
+Good news
+Good with words
+Goon squad
+Gooseberry
+Gopher ball
+Gore
+Goat curry
+Got a bad feeling about this
+Got the munchies
+Got to have a hobby
+Gouts of warm blood
+Grab
+Grab your brolly
+Grammar Nazi
+Granny shot
+Grasp
+Grasping banker
+Gratuitous
+Gratuitous nudity
+Grave digger
+Gravy
+Great
+Great balls of fire
+Great explosions
+Great shot kid
+Great vengeance
+Greed
+Greed is good
+Green hill zone
+Gregarious
+Gridlock
+Grim amusement
+Grim reaper
+Grimace
+Grin and bear it
+Grindhouse
+Grinning idiot
+Grip hard
+Grisly end
+Gristle sausage
+Groan-worthy
+Groovy dancer
+Growler
+Growling stomach
+Grubby urchin
+Grudge
+Gruesome
+Grumpy teenager
+Grunties
+Guerilla tactics
+Guess who
+Guessing game
+Guest list mishap
+Guest of honour
+Guilty
+Guilty conscience
+Gullible
+Gunpowder
+Guns are for wimps
+Gust
+Gutter rat
+Gypsy curse
+Ha Ha Ha
+Haberdasher
+Hack and slash
+Haiku
+Hair suit
+Hairpiece needed
+Hairy palms
+Half an unwell cephalopod
+Half century
+Half-baked plan
+Halitosis
+Hallowed ground
+Handed a hot one
+Hand-eye co-ordination
+Handsome
+Hang
+Hangover cure
+Haphazard
+Happy happy joy joy
+Happy hour
+Harpy
+Hasp
+Hat stand
+Hateful
+Hats for all
+Have you read my blog
+Have you seen my cat
+Head for the light
+Heads of state
+Headstrong
+Heap
+Heart attack mode
+Hearty breakfast
+Heat
+Heatwave
+Heaven on earth
+Heavy
+Heavy lifting
+Heavy-handed
+Heinous
+Hell is other mutants
+Hell to pay
+Hello
+Hello handsome
+Hello nasty
+Hello we're the Romans
+Help me
+Help you help yourself
+Helpdesk
+Here and now
+Heresy
+Heretical views
+Heroes don't wear tights
+Hidden depths
+Hide
+Hidebound
+High hopes
+High horse
+High noon
+High tops
+High voltage
+Highly trained rabbit
+Hip flask
+Hipster haircut
+Hired goons
+Hired help
+His and hers
+Hot leaded justice
+Hockey mask
+Hocus pocus
+Hole in one
+Hollow
+Hollow point
+Honest
+Honest lawyer
+Honestly
+Honourable end
+Hooked
+Hooligan
+Hope
+Hopeless case
+Hornet
+Horror
+Horror story
+Hot off the press
+Hot stuff
+Hot dog
+Hotel room
+Hotline
+Hound
+House of cards
+Hovel
+Hotelier
+How did this happen
+How far are we going
+Hubris
+Huge
+Hula skirt
+Human-only diet
+Humble pie
+Hunch
+Hunchback
+Hungry
+Hunter-gatherer
+Hunting party
+Hurdle
+Hurricane season
+Hurry up
+Hurry up and die
+Hurt me plenty
+Hurts donut
+Hush,
+they're sleeping
+Hymn
+Hyper-intelligent donkey
+Hypnotherapy
+I am rubber,
+you are glue
+I am your father
+I can see you
+I hate agents
+I like your shoes
+I regret nothing
+I smell blood
+I sold photocopiers
+I was in 'Nam
+Ice breaker
+Ice Ice Baby
+Ichor
+Icon
+Iconoclast
+Identity
+Identity theft
+Idiosyncratic
+Idiot
+Idiotic zebra
+Idiots in charge
+Idle
+Idol
+Idolatry
+If I had a hammer
+Igloo
+Ignorance is bliss
+I'll Always Be Here For You
+Ill-advised comb over
+I'm also Spartacus
+I'm Brian
+I'm Spartacus
+I'm Spartacus too
+Imbue
+Immune to sarcasm
+Impact
+Imperfect
+Impish
+Implausible
+Important
+Impossible
+Impure
+In your own time
+Inception
+Incognito
+Indefatigable
+Indigo
+Industrious
+Inept massage
+Inescapable
+Infant
+Infected crab alert
+Infection
+Infernal dance
+Inflated ego
+Injury time
+Ink blots
+Ink pot
+Inner city
+Innocent nibble
+Inquisitor
+Insane
+Insatiable
+Insect
+Insect repellent
+Inside the leather
+Insidious
+Instant impact
+Intense
+Intense ocelot
+Internet meme
+Intimidate
+Intimate
+Intimate details
+Intimate encounter
+Invasion
+Invincible
+Ipso facto
+Irascible
+Iris door
+Iris
+Irish heritage
+Iron age
+Irony
+Irregular army
+Irrelevant elephant
+Irritating cough
+Is this the end
+Island life
+Isotope
+It only hurts for a moment
+It was me what done it
+Itchy
+Itchy tasty
+Iteration
+Itinerant preacher
+It's astounding
+It's like sleeping
+I've fallen and I can't get up
+I've still got it
+Ivory
+Ivory tower
+Ivy league
+Jack in the box
+Jackal
+Jacket potato
+Jacuzzi
+Jade earring
+Jaded
+Jailhouse
+Jail
+Jailbreak
+Japanese pop song
+Japery
+Javelin
+Jaguar
+Jawbone
+Jaw-dropping
+Jaywalker
+Jazz band
+Jealous husband
+Jealous wife
+Jedi mind tricks
+Jeered off the stage
+Jellied eels
+Jelly legs
+Jeopardy
+Jerk
+Jest
+Jester
+Jesus Christ Fenton
+Jettison
+Jezebel
+Jigsaw
+Jill killed Jack
+Jilted
+Jilted lover
+Jimmy cracked corn
+Jingoism
+Jinx
+Jive talker
+Joan played baseball
+Jockstrap
+Join
+Join us
+Joke shop
+Joke's on you
+Jolly Roger
+Jolt
+Journalist
+Jousting champion
+Judge
+Judo
+Judo chop
+Juggernaut
+Jugular
+Juice
+Juicy human
+Julia never liked you
+Jump
+Jumpers for goalposts
+Jumpsuit
+Jungle
+Jungle fever
+Junk
+Junk food
+Jurassic
+Jurisdiction
+Jury
+Just
+Joust
+Just imagine
+Just kidding
+Just one bite
+Just one more
+Just sleeping
+Justice
+Justifiable
+Juvenile
+Juxtaposed
+Juxtaposition
+Kamikaze
+Kangaroo surprise
+Karaoke
+Karaoke singer
+Karma
+Karma bites
+Kebab time
+Keel
+Keep calm
+Keep the change
+Keep warm
+Keratin
+Kerb crawler
+Kerosene
+Key ring
+Keyboard addict
+Keyboard warrior
+Keyboard troll
+Keyhole
+Kick
+Kick in the balls
+Kick-start
+Kidnap
+Kidnap victim
+Kidneys
+Kids today
+Kill
+Kill me
+Kill thrill cult
+Killing me loudly
+Killing mutants is deadist
+Killing mutants is racist
+Killing mutants is sexist
+Killing time
+Killing culture
+Kilohertz
+Kind politician
+Kind-hearted
+Kindling
+Kindly
+Kindred spirits
+Kinetic
+King
+Kinky Wednesday
+Kings and Queens
+King for a day
+Kingdom of the dead
+Kingmaker
+Kinks
+Kinky cuddle time
+Kippers for supper
+Kismet
+Kiss me quick
+Kissing you goodbye
+Kitchen sink
+Kitsch
+Klaxon
+Knee
+Kneecap
+Knees are disgusting
+Knife edge
+Knight
+Knock
+Knock knock
+Knock out
+Knock-on effect
+Know your enemy
+Know-it-all
+Knuckle-dusters
+Knucklehead
+Kodiak
+Kudos
+Kumquat smuggler
+Kung Fu
+La La La
+Labyrinth
+Lacking finesse
+Lacklustre
+Lady boy
+Lair
+Lamb
+Lame duck
+Lance
+Language barrier
+Lapdog
+Lapsang Souchong
+Larynx
+Lashings of blood
+Last man standing
+Last rites
+Last wish
+Lasting effect
+Latchkey kids
+Laughing at you
+Laughing stock
+Lazy eye
+Lazy landlord
+Lead
+Lead weight
+Lead-lined coffin
+Leap into action
+Leaping lizards
+Leather on willow
+Leave me alone
+Leave this to me
+Leave us
+Lecherous
+Leech
+Leg before wicket
+Legend
+Leopard salesman
+Leotard
+Leper handshake
+Leprechaun
+Leprosy
+Let me help
+Let me touch you
+Lethal
+Lethargic
+Let's Be Friends
+Let's dance
+Let's face the music and dance
+Let's talk this over
+Letter from home
+Level-headed
+Lexicon
+Liar liar pants on fire
+Libby looks lovely
+Liberal leanings
+Library
+Library card
+Lice
+Life had taxes
+Light
+Lightning
+Like,
+totally
+Likely story
+Limbless
+Limp
+Leaky
+Limp as lettuce
+Limping leprosy
+Lingering death
+Lingering smell
+Link up
+Lint
+Liquid nitrogen
+Lisp
+Litterbug
+Livid
+Loan
+Loan shark
+Loathe
+Lobotomy
+Lobsters are fancy crabs
+Local knowledge
+Lollipops
+Lonely
+Long walk
+Look better dead
+Look don't touch
+Lookalike
+Looking for sailors
+Looking like rain
+Looks nasty
+Loose
+Loose cannon
+Loose lips
+Loosely screwed
+Loosen up
+Loser
+Losers do their best
+Loss
+Lost
+Lost at sea
+Lost cause
+Lottery winner
+Loud noises
+Loudest laugh
+Love and romance
+Love is like hate
+Love me
+Lucky
+Lucky charms
+Lucky ducky
+Lucky omen
+Luggage with legs
+Lumberjack
+Lump
+Lure
+Lurid
+Lurker
+Luscious
+Lush
+Lust
+Lust for life
+Lustre
+Luxury
+Lynch mob
+Machete
+Machiavellian
+Mad man
+Mad rhymes
+Madness in the method
+Mafioso
+Maggots
+Magical sound shower
+Mag-lev Margaret
+Magma
+Magnetic personality
+Maiden over
+Main
+Malaise
+Malevolence
+Malice
+Malignant
+Malone lives
+Man dressed as a bat
+Manacle
+Manifest destiny
+Manifesto
+Manly knitwear
+Mantle
+Many hands
+Marco Polo
+Mardis Gras
+Marked man
+Master baker
+Maul
+Maximum
+May I be Frank
+May I eat you
+Maybe
+Maybe this time
+Mayhem strikes
+Mea culpa
+Meager portion
+Mean
+Mean-spirited
+Meant
+Meat hook
+Meathead
+Mechanic
+Media mogul
+Mediocrity strikes
+Meet my friend pain
+Melancholy
+Melon farmer
+Melt down
+Memory lapse
+Menacing monsters
+Mend your ways
+Mercy killing
+Mescaline dreams
+Mess
+Mess up
+Micturate
+Midas
+Midas touch
+Midlife crisis
+Might
+Might is right
+Might makes right
+Milk-drinker
+Million
+Mime artist
+Min max
+Mince
+Mind control
+Mindless vandalism
+Mire
+Mirage
+Mirror image
+Miserable jester
+Misery
+Misery
+Misfit
+Mississippi
+Mixed metaphors
+Mixed signals
+Moan
+Mob justice
+Mobile connection
+Moist
+Mollusc
+Mom's basement
+Mongrels
+Monkey business
+Monkeys avoid you
+Monorail kitten
+Monsoon
+Monster mash
+Monstrosity
+Moon
+Moon on a stick
+Moonlight and music
+Morbid
+Morbid curiosity
+More tea vicar
+Mortal coil
+Most
+Mostly arm-less
+Mother dearest
+Motorcycle injuries
+Mould
+Mouldy popcorn
+Mourn
+Mucus
+Muddy funsters
+Mummy cries a lot
+Mundane
+Murder
+Murder of crows
+Muscle-memory
+Muscular
+Muster
+Musk
+Must we fight
+Mutant
+Mutant Liberation Front
+Mutant of interest
+Mutant shot the food
+Mutants are just hungry
+Mutants ate my hamster
+Mutants need love
+Mutants rule
+Mutate and survive
+Mutation
+Mutton dressed as lamb
+My arm fell off
+My face feels weird
+My head hurts
+My little buttercup
+My little friend
+Myriad
+Mystery guest
+Mystical
+Nagging doubt
+Nail
+Name
+Napoleon ate the pig
+Napoleon complex
+Narcissistic
+Nasty Rash
+Nausea
+Navel
+Near miss
+Nearly
+Necessary
+Neck
+Nick
+Necromancy rules
+Necropolis
+Need a hug
+Need backup
+Needless needles
+Neglect
+Negligee
+Neil before Bob
+Nemesis
+Nerd rage
+Nervous
+Nerve gas
+Nervous energy
+Nervous nineties
+Nervous twitch
+Nest
+Nest-egg
+Nettle
+Neural net
+Neurological
+Neurotic attitude
+Neutered
+Never
+Never called back
+Never satisfied
+Never say never
+Never stopped loving you
+Never trust mutants
+Newsflash
+Nexus
+Nice costume
+Nice guy Eddie
+Nice motor skills
+Nice try
+Nice try Einstein
+Niche appeal
+Nick of time
+Night owl
+Night watchman
+Nihilist
+Nil carborundum illegitemi
+Nimble fingers
+Nine across
+Nine is never none
+Nine minute workout
+Nineteenth hole
+Ninjas never noticed
+Nipple madness
+Nitty gritty
+No more time
+No need to shoot
+Nobody cares
+Noisy
+Nomadic
+Nomenclature
+Nonchalant
+None
+None
+Noose
+Nosebleed
+Noseless
+Nostalgia
+Nosy neighbour
+Not a zombie
+Not again
+Not looking that good
+Not now not never
+Not on a first date
+Not quite dead
+Not sick just coffin
+Not the brightest
+Not the face
+Not this time
+Nota Bene
+Nothing is sacred
+Nothing matters
+Nothing up my sleeve
+Nothingness
+Nothing's what it seems
+Noticeable limp
+Noun
+Noun frenzy
+Novice
+Now for the next question
+Now we eat
+Now you die
+Nuclear explosion
+Nuclear family
+Nugget
+Nuke the city
+Nullify
+Number
+Numbing bite
+Numpty
+Nutcracker
+Nuts to this
+Nymphomania
+Obelisk
+Obey the crab
+Objection!
+Oblivious
+Obnoxious oaf
+Obsessive compulsive
+Occult
+Oceanic explorer
+Octo-mutant
+Octopus
+Odds
+Odds or evens
+Odourless
+Oedipus
+Oedipus complex
+Offal
+Offend everyone
+Offer
+Office worker
+Off-side
+Ogre
+Oh for the wings of a dove
+Oh me oh my
+Oh no not again
+Oh the Shark has
+Oil slick
+Oily
+Okey dokey Dr Jones
+Old Man River
+Old people suck
+Old-school beats
+Olive branch
+Olives
+Ominous tidings
+Omnivore
+Once
+Once bitten,
+twice shy
+Once more with feeling
+One for the road
+One hundred haircuts
+One in a million
+One man went to mow
+One minute to live
+One of us
+One that got away
+One-sided
+Onion knight
+Only
+Only
+Only one
+Only the best
+Onomatopoeia
+Onset
+Oompah music sucks
+Opaque
+Open
+Open casket
+Open sesame
+Opposites attract
+Opposites attract
+Optimistic
+Optimistic ambush
+Optional extra
+Orange
+Ordure
+Orifice
+Original sin
+Orwellian
+Oscar-worthy
+Osmosis
+Ostentatious
+Ostracise
+Ouch that hurts
+Out for a duck
+Outer space
+Oven
+Over
+Over an oeuvre
+Over the top
+Over-easy
+Overkill
+Overpowered
+Overwhelmed
+Overwrought analogy
+Oxford comma
+Ozone
+Pack mentality
+Pack of liars
+Pact
+Paddle boat
+Paddle scoop
+Pain donation
+Pain so deep
+Painful conversation
+Painful process
+Paint the walls red
+Pale
+Pale feet
+Panic stations
+Panic-stricken
+Pantomime horse
+Pants or trousers
+Par for the course
+Parade of fools
+Paradox
+Parallelogram
+Paranoia
+Parasite
+Parkour
+Parliament of rooks
+Part-time gymnast
+Pass me my arm
+Pass the mic
+Passing Breeze
+Pastafarian Princess
+Pastiche
+Pat yourself on the back
+Pathetic
+Pathetic attempt
+Pawn
+Pea stalks
+Peace
+Peace Piece Peas
+Peace talks
+Peachy-keen
+Pearly gates
+Pebbles
+Penalty stroke
+Penultimate
+Peppermint
+Perfect game
+Perfect planning prevents
+Perimeter
+Personal
+Personal question
+Personal stylist
+Perspective vortex
+Pest
+Pet frog
+Phantasmagoria
+Phantom
+Phantom ballplayer
+Phase
+Pheasant plucker
+Phenomenon
+Phobia
+Photo finish
+Pick me up
+Pick up
+Pickled fingers
+Pickpocket
+Pickpocket
+Picture perfect
+Pie fight
+Pierce
+Pilloried
+Pillow talk
+Pinch hitter
+Pinch me
+Pinch me I'm dreaming
+Pine
+Pining for the fjords
+Pink
+Pinky swear
+Pins and needles
+Pint of brains
+Pirate
+Piss-poor performance
+Pistol-whipped
+Pit your wits
+Pitch perfect
+Pitching wedge
+Pitiable sight
+Pity the living
+Pizza
+Plaice invaders
+Plain clothes
+Play
+Play better
+Play it again Sam
+Playground taunts
+Playing favourites
+Pleasant
+Please cover your face
+Please recycle yourself
+Please use a mirror
+Plinth
+Plotting
+Plucked hen
+Plume
+Pockets jingling
+Pointless
+Pointless effort
+Pokey radish
+Poleaxe
+Political correctness gone mad
+Polka-dot
+Poncho
+Pong
+Poor
+Poor attempt at flattery
+Poor choice of colours
+Poor suction
+Poor table manners
+Popped shoulder
+Popularity
+Possibly problematic
+Post box
+Post-party blues
+Potatoes have eyes
+Pot-pie
+Poultry
+Practice makes perfect
+Pray for release
+Preach to the perverted
+Precious
+Preemptive strike
+Prehensile
+Prejudiced aardvark
+Prelude
+Press
+Pressure
+Pretty as a picture
+Pretty boy
+Pretty city boy
+Pretty teeth dear
+Priceless
+Pride
+Prime steak
+Primordial soup
+Private party
+Prize fighter
+Proof of death
+Protect and sever
+Proud to be green
+Prowl
+Pseudonym
+Puked my liver up
+Pull my finger
+Pull the other one
+Pumpkin carving
+Punch drunk
+Punching bag
+Punctuation kills
+Punish
+Punishment meeting
+Puppet
+Puppet master
+Pure
+Purgatory
+Pupate
+Purple
+Purple haze
+Push the red button
+Pushing up daisies
+Pushover
+Pushy parents
+Put some clothes on
+Put the kettle on
+PWNED
+Pyramid scheme
+Pythagoras couldn't count
+Q the winged mutant
+Quacks don't echo
+Quad bike
+Quadruple double
+Quaff
+Quaint
+Quality control
+Qualm
+Quantifiably sicker
+Quantum
+Quarantine
+Quarterback
+Quartz
+Quasar
+Quay
+Queen
+Queen mother
+Quell
+Querulous
+Query
+Quaternion
+Quest
+Question everything
+Queue
+Quick
+Quick and clean
+Quick march
+Quick on the draw
+Quickly now
+Quiet
+Quietly does it
+Quiff
+Quill
+Quilted toilet paper
+Quintessential
+Quip
+Quit
+Quite an effect
+Quite interesting really
+Quite the gentleman
+Quizzical
+Quota
+Rabbit punch
+Rabble rouser
+Rack
+Radioactive
+Rage
+Raging hunger
+Raider
+Rain
+Rain cloud
+Rambunctious
+Rancid cheese
+Random fusebox
+Rank amateur
+Rapid
+Rapid fire
+Raspberry ripple
+Rat bag
+Rat catcher
+Rat hormones
+Rather you than me
+Ratty
+Ravenous
+Raw meat
+React
+Read 'em and weep
+Ready to boogie
+Reagan would approve
+Reagent
+Real eye-opener
+Real name John Doe
+Really
+Rebel adventure
+Red herring
+Red lorry yellow lorry
+Red rum
+Red sky at night
+Red wedding
+Register your death
+Regular Casanova
+Relapse
+Relapse
+Release Roger
+Release the hounds
+Relentless chicken
+Religious differences
+Reminiscent
+Renovate
+Repeatedly riled
+Replacement brainstem
+Reprehensible
+Reptile
+Rescue attempt
+Research
+Respect is earned
+Rest in peace
+Restless legs
+Return of the mutant
+Reveal
+Revenge
+Revenge is sweet
+Reverse swing
+Reward
+Rhombus
+Rhyming couplet
+Rhythmic rebels
+Rib tickler
+Rift
+Rigged election
+Right
+Righteous
+Rigor mortis
+Rile
+Riled up
+Ring my bell
+Ring of fire
+Ringo was best
+Riot prediction
+Rip off
+Rising damp
+Risk
+Risky strategy
+Rivers of blood
+Rivulet
+Road rage
+Road trip
+Robber baron
+Robbery
+Rock the Kasbah
+Roll the bones
+Rollercoaster
+Rollercoaster buffoon
+Romance is dead
+Room service
+Rope
+Rorschach test
+Round
+Round head
+Roundhouse
+Roving
+Rubber skeleton
+Rubber soul
+Rude boy
+Rudimentary
+Rudy rang the wrong one
+Ruffians
+Rookie
+Rug burn
+Rugged charm
+Rugged good looks
+Ruin
+Ruminate
+Ruined my complexion
+Ruinously expensive
+Rule-breaker
+Rumour
+Rumpelstiltskin
+Run away
+Run rabbit run
+Running back
+Running commentary
+Running scared
+Russian roulette
+Rust
+Rusty
+Rusty nail
+Sack the writer
+Safe-word
+Salmon max
+Salt
+Salted trifle
+Salute
+Samurai
+Sanctimonious
+Sandbagger
+Sandwich
+Sane
+Sanitarium
+Sanity
+Sanity is relative
+Sashimi
+Satsuma celebrity
+Save me
+Saw tips
+Scared of aging
+Scared of chives
+Scared of the dark
+Scared of youth
+Scared yet
+Scarred
+Scary Santa
+Scavenger
+Schadenfreude
+Schizophrenia
+Schlock horror
+Scholar
+Science is fun
+Scorpion
+Scowl
+Scrambled eggs
+Scraps
+Scratch and sniff
+Screw the nine-to-five
+Screwball
+Scum
+Season finale
+Second innings
+See you shaking
+Seedy underbelly
+Seen too much
+Selfish bastard
+Senile
+Sense
+Sense of security
+Sensitive mangrove
+Sentence
+Septic
+Servile
+Settle down
+Seven minutes in heaven
+Sexy boy
+Shallow and unprofitable
+Shallow grave
+Shamble
+She sells sea shells
+Shellfish bastard
+Shifty Koala
+Ship shape
+Shirt and tie combo
+Shock tactics
+Shoot the weak spot
+Shopping for shirts
+Short circuit
+Shot
+Shorty
+Show time
+Shrinking violet
+Shuffle
+Shut your mouth
+Sibilant
+Sick and tired
+Sick beats
+Sick boy
+Sick note
+Sickening
+Silence is golden
+Silent but deadly
+Silly
+Silly mid-on
+Simple
+Simpleton
+Stimulating
+Sing and rejoice
+Sing me a song
+Sing or whistle just for fun
+Sing out of tune
+Single small balloon
+Single wing formation
+Sink or swim
+Siren
+Sisters
+Sitting duck
+Six minute steak
+Skid Row
+Skill shot
+Skin condition
+Skin of your teeth
+Skin-tight leotard
+Skittish insect
+Skullduggery
+Slam dunk
+Slaphead
+Sleep walker
+Slippery
+Slippery customer
+Slit your gizzard
+Slithering
+Slop
+Sloppy seconds
+Sloppy seconds
+Sloth
+Sloughed skin
+Slow burn
+Slow learner
+Slow reader
+Slow reader
+Sluice
+Smart idea
+Smash and grab
+Smoke me a kipper
+Smoking gun
+Smoking jacket
+Snake eyes
+Snapped banjo
+Snapped femur
+Sneak thief
+Sneaky
+Snooty
+Snowball
+So glad you came
+So long
+So much bleeding
+So much moaning
+So much screaming
+So tired
+Soaked
+Softly softly
+Softly spoken
+Solidarity
+Something borrowed
+Something fishy
+Something in your eye
+Sonar
+Sonic hedgerow
+Sore
+Sore privates
+Sorry to bother you
+Souls for sale
+Sound off
+Sour
+Sour mash
+Spangled pandemonium
+Spare some change
+Spatial instability
+Special mutant squad
+Spendthrift
+Spin doctor
+Spinal cord
+Spineless
+Spite
+Spiteful spies
+Spittle
+Splash Wave
+Splendid
+Split decision
+Split lip
+Sponge
+Spot
+Spring break
+Spurious
+Squall
+Squawking magpies
+Squeal
+Stack the deck
+Stain
+Stale bread
+Stand together
+Staring is rude
+Starry-eyed
+Startled by pandas
+Starving
+State
+Stately home
+Stay a while
+Stay forever
+Stay off the furniture
+Steadfast acting
+Steal
+Sterile warnings
+Stew
+Stew with a hat on
+Stick or carrot
+Sticky fingers
+Sticky wicket
+Still very moist
+Sting
+Sting in the tail
+Stink of fear
+Stinking cesspit
+Stinks here
+Stockholm syndrome
+Stoic
+Stolen kisses
+Stone heart
+Stones
+Stop farting
+Stop judging me
+Stop shooting
+Storm chaser
+Story-teller
+Straight shooter
+Strange brew
+Strangely charmed
+Streetwise
+Strength in numbers
+Stretch limousine
+Strictly platonic
+Strictly platonic relationship
+Strike you're out
+Struck dumb
+Struggle
+Struggling guitarist
+Struggling to stand
+Stun
+Stun-locked
+Stupid guy with no head
+Stupid says what
+Stupid sexy mutants
+Stop collaborate listen
+Success story
+Such vanity
+Such wasted lives
+Sucker punch
+Suffocate
+Sugar and spice
+Suicidal tendencies
+Sultry vixen
+Sunglasses are for outdoors
+Sunshine
+Sunshine lollipops rainbows
+Super donkey ball
+Surly
+Surprisingly relaxed lion
+Sushi
+Suspense
+Suspicious minds
+Swapped for a bike
+Sweat
+Swell guy
+Switch hitter
+Table setter
+Tablet device
+Tail-ender
+Taint
+Take a look inside
+Take me all the way
+Take the blue pill
+Take the red pill
+Take this
+Talent scout
+Talk to the hand
+Tall order
+Tall tales
+Tap out
+Tape-measure blast
+Tapioca
+Target
+Taskmaster
+Taste my wrath
+Tasteful tattoo
+Tasty
+Tasty treat for me
+Taught
+Taunt
+Tea for two
+Trace
+Tear
+Tear ducts
+Tears of a prawn
+Technical foul
+Technological determinism
+Tedious anecdote
+Teenage poetry
+Tempestuous seas
+Ten minute rule
+Tenacious foe
+Tense
+Tension
+Tepid
+Terra firma
+Terrible bandwidth
+Terrible teeth
+Terrible violinist
+Terrifying planet
+Terror
+Test
+Thanks for all the fish
+That hurts
+That makes you look fat
+That man is super
+That woman is wondrous
+That's my boy
+The best backrubs
+The End really is nigh
+Their they're there
+Theme
+There may be trouble ahead
+There their they're
+Thespian
+There is a house
+Thick as thieves
+Thin the herd
+Think of me as you say goodbye
+Think she likes me
+Thinking of Dennis
+Third strike sentence
+This counts as foreplay
+This is all your fault
+This is my wedding suit
+This is the end
+This will hurt
+Thoroughly thoughtful
+Three is a crowd
+Three minute egg
+Three point shot
+Three point stance
+Three strikes
+Threshold
+Tick Tick Tick Boom
+Ticker-tape parade
+Tiger sanctuary
+Time for a walk
+Time is fleeting
+Time out
+Timely intervention
+Timeshare holiday
+Timpani
+Tincture
+Tin-pot dictator
+Tip top
+Tip your hat
+Tipsy
+Tire
+Tired
+Toil
+Toiling away
+Toilet bowl
+Tone-deaf
+Tongue twister
+Tonight we die
+Tonsil hockey
+Too many enemies
+Tools
+Tooled up
+Tools of the trade
+Top dog
+Tortoiseshell
+Tortuous
+Torture
+Totally overpowered
+Touch me
+Touch of class
+Tough crowd
+Tough luck
+Towel thief
+Toxicity
+Transformation
+Transition defense
+Trappist monkey
+Trappist punk
+Travesty
+Treacle
+Treasure
+Trellis
+Trench warfare
+Trenchfoot
+Trend
+Trepidation
+Triangle offense
+Trick or treat
+Trick shot
+Tricksy gypsy
+Tried life hated it
+Trifle
+Trigger happy
+Trouble with buttons
+Troubled upbringing
+Troubling developments
+Troubling tidings
+True
+True
+Trust fund
+Trust issues
+Trust nobody
+Trust your feelings
+Try as you might
+Try harder
+Tryst
+Triplicate
+Tsunami
+Tunnel vision
+Turbine
+Turing test
+Turkey
+Turkish bath salts
+Turkish delight
+Turn this shit off
+Turn your back
+Turnkey solution
+Tuxedo
+Twin killing
+Twisted ankle
+Two is company
+Two minutes to midnight
+Two up two down
+Typography
+Tyrant
+Ubiquitous
+Ugly
+Urgent
+Ugly duckling
+Ugly is as ugly does
+Ukulele
+Ulcer
+Ultimatum
+Ultra violence
+Ulysses drank blood
+Ulysses was drunk
+Unanimous
+Unappreciated
+Unbound
+Uncle Charlie
+Uncle Sam
+Uncoordinated juggler
+Uncover
+Unctuous
+Unctuous tincture
+Undead have rights
+Undead squirrel panic
+Under
+Under the influence
+Underneath
+Understandably reluctant
+Undertaker
+Undo
+Undo
+Undulating surface
+Unemployed
+Uneven
+Unfair dismissal
+Unfashionable
+Unfurl
+Unicorn sandwich
+Unison
+Unity
+Unless
+Unnatural
+Unnatural urges
+Unplayable lie
+Unprovoked assault
+Unrecognisable
+Unreliable narrator
+Untidy appearance
+Untrustworthy weevil
+Unusual suspects
+Unwell cephalopod
+Unzip
+Up and down
+Up top
+Uppity outlaw
+Upright man
+Uproar
+Upstanding
+Upwardly mobile
+Urban myth
+Urchin
+Urgent
+Use sparingly
+Used
+Used for glue
+Useless
+Useless kangaroo
+Useless trombonist
+Usurp
+Utmost
+Utterly awful
+Vacuous human
+Vacuum
+Vain
+Valley of the dead
+Valve
+Van man
+Vandal
+Vanguard
+Vanity
+Vapid
+Variety
+Vary
+Vat of rancid cheese
+Veal
+Vehement
+Vein
+Velvet glove
+Vendetta
+Venetian
+Vengeance
+Vengeful
+Veni vidi vici
+Venomous phrase
+Vent
+Vent your frustrations
+Venusian
+Venus flytrap
+Verbal is lying
+Verisimilitude
+Verse and chapter
+Very itchy
+Very naughty boy
+Very slow fish
+Vestibule
+Viaduct
+Vibrant dolphin
+Vibraphone salesman
+Vibrating peripheral
+Vice
+Vulgar
+Vice squad
+Vicious rumour
+Victim
+Victim of voltage
+Victimless crime
+Victory march
+Victory shall be mine
+Victory through booze
+Victory through punctuation
+Vile
+Vim and vigour
+Vintage thighslap
+Violence
+Violent episode
+Violent koala
+Violent witness
+Virus
+Viscera
+Vitriolic outburst
+Vocabulary hero
+Volunteer
+Voluptuous
+Vomit stains
+Voodoo
+Voodoo doll
+Voracious appetite
+Vote for me
+Vowel
+Vowel anxiety
+Vulpine
+Vultures are circling
+Wafer-thin mint
+Wail
+Wailing cats
+Wailing guitar solo
+Wait for me
+Walk in the woods
+Walk this off
+Walking dread
+Walrus punch
+Wandering minstrel
+Ward the jungle
+Warts
+Wary
+Waspish
+Wasted virtue
+Watch your back
+Watchdog
+Water hazard
+Water on the knee
+Wax on wax off
+Waxing lyrical
+We are legion
+We fear change
+We have chemistry
+Weak
+Weak powers old man
+Weakling
+Wear
+Wearing thin
+Weasel of gnawing
+Weave
+Weeping widow
+Weightless
+Welcome to paradise
+Welcome to your doom
+Well preserved
+Welt
+Went into Ravenholm
+Wept
+We're all sinners
+We're all Spartacus
+Wipe
+Wet dog
+Wet handshake
+Wet the bed
+We've brought a flag
+What
+What the hell
+Whatever happens
+What's brown and sticky
+What's with the keyboard
+Whelp
+When in Rome
+Where's everyone else
+Where's your warrant
+Whipping boy
+Whisper
+Whitewash
+Who are you
+Who is Jack anyway
+Who is your daddy
+Who watches the watchmen
+Who's the real monster
+Whose pig is this
+Why are you still here
+Why fight
+Why must we fight
+Widower
+Wildcat formation
+Will this hurt
+Will you hold me
+Will you marry me
+Willpower
+Wilt
+Wimp
+Wince
+Wind your watch dude
+Winkle picker
+Winning ways
+Winter
+Winter is coming
+Wisp
+Wistful thinking
+Witchcraft
+Witch-hunt
+Witty banter
+Wobbly knees
+Woe is me
+Wolfgang time
+Woman dressed as a cat
+Wonderful
+Wonky donkey
+Wooden
+Wooden acting
+Woof woof
+Words will never hurt me
+Working is not working
+World eater
+Worm fodder
+Worms make great pets
+Worry
+Worst case scenario
+Would you lie to me
+Wound
+Wounded pride
+Wraith
+Wrath
+Waste
+Wretch
+Wriggle
+Wring my neck
+Wrinkly ninja
+Wry smile
+X marks the spot
+Xanadu
+Xenon
+Xenophobia
+Xmas time
+X-ray
+Xylophone fan
+Yabba Dabba Doo
+Yacht
+Yak-liver sausage
+Yankee
+Yankee doodle dandy
+Yappy dog
+Yardstick
+Year
+Yeast
+Yee haw
+Yell
+Yell all you want
+Yellow
+Yellow belly
+Yeoman
+Yes that's interesting
+Yesteryear
+Yet again
+Yeti sandwich paste
+Yodelling tuition
+Yorkshire
+You added nothing to humanity
+You and me in a tree
+You are ugly
+You ate my lunch
+You burnt my toast
+You can run but you can't hide
+You don't belong here
+You dress like a child
+You get used to it
+You lie about your height
+You ruined it all
+You ruined my coffee
+You smell
+You smell funny
+You spilled my drink
+You startled me
+You still here
+You stole my sandwich
+You suck
+You weren't there,
+You'll never take our freedom
+Young
+Young people suck
+Youngest
+Your bum looks big in that
+Your dad
+Your mum
+Your mum is a mutant
+Your own time you're wasting
+Your skills are weak
+You're no oil painting
+Youth is fleeting
+You've got red on you
+Zapped by lightning
+Zarathustra
+Zeal
+Zealot
+Zeitgeist
+Zenith
+Zeppelin
+Zero
+Zero tolerance
+Ziggurat
+Ziggy played guitar
+Zigzag
+Zinc
+Zip up
+Zipper trauma
+Zircon
+Zodiac
+ZOMG
+Zone
+Zucchini
+Zugzwang
+Zulu
+Zygote
+Wilderness
+Lucky guess
+Epicentre
+Universal apologist
+Brain dead
+Collateral damage
+Just killing time
+Growing pains
+Glowing reference
+Guns for hire
+Fight the power
+Gritted teeth
+Thirsty work
+Hedonist
+Crazy cat lady
+Spinster city
+Perforated
+Hold me down
+Fancy meeting you here
+Baby hates corners
+Aimless feet
+Leaf pile jumper
+Retail therapy
+Shopping cart disaster
+Profit margins
+Marriage proposal
+Dead wrong
+Dead right
+Pretty little thing
+Delicious specimen
+Drooling loon
+Disaster
+Bombardier
+Pickle
+Sauce
+French
+Bacon
+Roomy
+Paddling
+Piffling
+Bromide
+Oxygen
+Tennis
+Chickens
+One two three
+Ninety nine problems
+You're to blame
+Culpable
+Curio
+Carefree
+Unemployable
+Latent
+Nuanced
+Nautical
+Bottled water
+Fine wines
+Fine dining
+Beams
+Spiders
+Beelzebub
+Beetles
+Pincers
+Mandibles
+Got munchies
+Savoury snacks
+Snake heads
+Cobra blood
+Pity me
+Bleeding finger
+Twilight
+Tinkle
+Timpani
+Big drum
+Small feet
+Smelly bit
+Should call it Hand-Egg
+Not really Football
+Flamboyance of Flamingos
+High ping bastard
+Low ping bastard
+Fly you fools
+Shake the room
+Fire in the hole
+Bunny hopper
+World class excuse engine
+Basket of Snakes
+Falling with style
+Sequential standing
+Rubicon
+Tabula Rasa
+The Motherlode
+Belgian bun
+Dutch courage
+German precision
+British manners
+French toast
+Parliament of rooks
+Seasons of mists
+Manslaughter of crows
+Science fiction
+Rom-com
+Chick-lit
+Young adult
+Serious literature
+Grown-up words
+You and those games
+Anapestic tetrameter
+My dog's got no nodes
+Explosion in a node factory
+Destructible crate
+Health pack
+Extra life
+Ammo pickup
+Skip level
+Alt tab
+Print screen
+Bogey man
+Expensive hat taste
+Flare crashed
+Thanks Obama
+Sanity clause
+Knife
+Fork
+Spoon
+Drums
+Guitar
+Violin
+Bassoon
+Cello
+Trumpet
+Tuba
+What does the fox say
+God Frog
+Rabbit
+Ducks
+Fish
+Wolves
+Whales
+Beluga
+Elephant
+Gazelle
+Horse
+Gerbil
+Hamster
+Shark
+Great white
+Tiger
+Lion
+Bears
+Accordion
+Alphorn
+Didgeridoo
+Trombone
+Euphonium
+Cornet
+Flugelhorn
+Bugle
+Harmonica
+Bagpipe
+Clarinet
+Oboe
+Crumhorn
+French horn
+Nose flute
+Flute
+Ocarina
+Recorder
+Sackbut
+Saxophone
+Whistle
+Harp
+Harpsichord
+Banjo
+Mandolin
+Piano
+Harmonium
+Organ
+Pipe organ
+Piccolo
+Hurdy-gurdy
+Pan-pipe
+Balalaika
+Dulcimer
+Octobass
+Celesta
+Cabbage
+Lettuce
+Cucumber
+Onions
+Green bean
+Parsnips
+Okra
+Beetroot
+Ginger
+Radish
+Olives
+Alfalfa
+Sprouts
+Avocado
+Pumpkin
+Eggplant
+Artichokes
+Leeks
+Spinach
+Aardvark
+Mongoose
+Jackal
+Leopard
+Caracal
+Polecat
+Baboon
+Mandrill
+Bushbaby
+Orangutan
+Chimpanzee
+Tamarin
+Tamarind
+Banana
+Apple
+Grapes
+Plums
+Lemur
+Zebra
+Caribou
+Antelope
+Hippo
+Hippopotamus
+Rhino
+Rhinoceros
+Hyena
+Buffalo
+Crocodile
+Alligator
+Turtle
+Tortoise
+Mouse
+Rats
+Giraffe
+Hedgehog
+Vulture
+Camel
+Dromedary
+Cobra
+Scorpion
+Tarantula
+Woodlouse
+Hyrax
+Impala
+Gecko
+Lizard
+Warthog
+Cheetah
+Porcupine
+Wildebeest
+Pangolin
+Gooseberry
+Tomato
+Cranberry
+Kiwifruit
+Pomegranate
+Pineapple
+Pear
+Coconut
+Guava
+Apricot
+Melons
+Owls
+Finches
+Blue tits
+Crows
+Swallows
+Swifts
+Rooks
+Blackbird
+Chameleon
+Sparrow
+Eagle
+Phoenix
+Vegas Baby
+Robin
+Ronin
+Buzzard
+Peregrine
+Falcon
+Badger
+Squirrel
+Otter
+Vole
+Hare
+Cling
+Film
+Foil
+Bags
+Goldfish
+Swans
+Toad
+Salmon
+Trout
+Plaice
+Tuna
+Dolphin
+Acuity
+Visual
+Movement
+Dancing
+Drifting
+Wafting
+Waving
+Thieving
+Thickness
+Buttercup
+Daisies
+Nights
+Dreams
+Clams
+Anemone
+Amoeba
+Stingray
+Failed at sitting
+I am the monarch of the sea
+Bad dates
+Digging in the wrong place
+Snakes
+Arms
+Legs
+Knees
+Toes
+Feet
+Head
+Hair
+Gums
+Teeth
+Molars
+Torso
+Thighs
+Calves
+Wrists
+Fingers
+Thumbs
+Eyes
+Nose
+Mouth
+Ears
+Neck
+Chest
+Tummy
+Stomach
+Lungs
+Heart
+Groin
+Abdomen
+Aorta
+Ventricle
+Atrium
+Bookshelf
+Doormat
+Clean desk
+Plug hole
+Tongue
+Kidneys
+Spleen
+Throat
+Trachea
+Bladder
+Intestine
+Skin
+Bone marrow
+Thyroid
+Adrenaline
+Pancreas
+Pituitary
+Pineal gland
+Hypothalamus
+Phalanges
+Wings
+Trotters
+Flippers
+Two weeks
+Beautiful bullets
+Blistering scars
+Don't know why
+Boomstick
+Shotgun
+Pistol
+Grenade
+Minefield
+Rifle
+Bomb
+The knives
+Trigger
+Itchy
+Scraping
+Barrel
+Lock
+Stock
+Lock,
+Stock and Barrel
+Clip
+Ammo
+Refill
+Camo
+Camouflage
+Urban
+Stab
+Pierce
+More Brains
+Mental Gin
+Catch the leaf
+Male Crime Sim
+Flowers to Womans
+Chop-Chop
+Gas Gas,
+quick boys
+Voodoo economics
+Bar crawl
+KABOOM
+Typo
+Tyro
+Hup-Hup-Hup
+Show me those fingers
+Ape tunnel
+Pushing the button
+Nudging the envelope
+Cooked the golden goose
+Pickled onions
+Buttered nuts
+La plume de ma tante
+La table de mon oncle
+Condition Blunderbuss
+Punctuation Blunderbuss
+At the labour exchange
+Gone on holiday by mistake
+Vibrant Ribbon
+Unconventional typing style
+How's your bra?
+Go on Go on Go on Go on
+Space is big
+That's just peanuts to space
+Clucking bell
+I have a cunning plan
+Mad Jack McMad
+First world problems
+Nice Pumpkins
+Bang tidy
+That's what U gets
+I carried a watermelon
+I expect you to die
+You expect me to talk
+Not in Kansas any more
+Love the smell of Napalm
+Ready for my close up
+I'm mad as hell
+Not going to take it any more
+Fava beans and a nice Chianti
+Need a bigger boat
+STELLLLAAAAAAAA
+Houston,
+we have a problem
+The Eagle has landed
+Would you like me to seduce you
+Here's Johnny
+Open the pod bay doors
+It's people
+Don't call me Shirley
+Captain my captain
+Nobody puts baby in the corner
+9X9W8b8W8b?a?b?a>`>a>`_:ZYZ:[;[:[;\<\;\<]=]<]=^"EGE"
+j	i	
+h&FHF&
+cI)J)I((1)T(I1(0(T//0(S/T0/7/S..7/R.S7.6.RQQ6.6QVO-P-O,,5-N,O5,4,N++4,M+N4+3+M**3+L*M3*2*LKK2*2KU
+n@mm@ot@no@ps@tp@qr@sq@r
+9=9<:89:987678;686176;55/616//54/014./0/..430^13
+0__[^0
+*-*2)
+,[_]-+,+-*b
+%*%)(
+aba,+bVXVba*'+'*%]P[P\[
+]P]YR
+YRXVNPYNYR\POO
+\MPNPMOK
+TVWVTRR
+&!!"#F
+$!&&%$"!  E"!$
+STUTSR
+ACBD`
+CA@?@AC
+LLOM
+OLQQ
+GJKw
+~q}q~u
+usuoqrstsro
+rq|}|
+}opq|qprlopol
+nrlrn
+mlmpl
+knmnk
+pmzz|p
+ejijek{
+||z{kgmgzmgkei
+hhei
+dhzy{y
+{zgwyzwefgfedfwg
+ywxy
+xwvwfv
+8 H X 
+!,!K
+l*|*
+f1v1
+3 343H3\3p3
+L;\;
+CRASH
+CRASHING DOWN
+DEATH FROM ABOVE
+DO NOT ANNOY THE OPERA GHOST
+THINK OF ME AS YOU SAY GOODBYE
+Brains
+Bite
+Chew
+Dead
+Dying
+Eaten
+Hell
+Howl
+Hurt
+Meat
+Nail
+Pain
+Slice
+Tear
+Tooth
+Vomit
+Weak
+Violate
+Squeak
+Bile
+Sick
+Vomit
+Assault
+Biting
+Blood
+Chop
+Consume
+Devour
+Drool
+Evil
+Exult
+Filthy
+Finger
+Gravy
+Gruesome
+Guttural
+Hate
+Howling
+Infected
+Jackboot
+Jeer
+Kill
+Killing
+Lifeless
+Liver
+Moan
+Mutant
+Need
+Nuance
+Opaque
+Open
+Plague
+Prime
+Quarry
+Quick
+Reactive
+Rend
+Slaughter
+Stab
+Tension
+Twist
+Urge
+Vice
+Vicious
+Walking
+Distort
+Wound
+Xenon
+Miasma
+Yakuza
+Halitosis
+Yell
+Zoom
+Zygote
+BLAM
+BOOM
+Agile
+Hurry
+Lively
+Lover
+Nippy
+Panic
+Quickie
+Rapid
+Swift
+Trembler
+Zipper
+Spry
+Sudden
+Nimble
+Snappy
+Hasty
+Dash
+Rush
+Foul
+Chaos
+Crud
+Dirty
+Dung
+Faeces
+Filth
+Filthy
+Grimy
+Guano
+Muck
+Mucky
+Putrid
+Scum
+Scummy
+Sewage
+Stinky
+Unclean
+Crappy
+Stench
+Fetid
+Rancid
+Rank
+Mucus
+Axe wound
+Chop 'em up
+Chopper
+Cut 'em down
+Hack and slash
+Hatchet job
+Bite
+Chew
+Flay
+Gnaw
+Grab
+Maim
+Rend
+Snap
+Tear
+Vile
+Ooze
+Snip
+Chomp
+Gouge
+Munch
+Sever
+Slice
+Shred
+Wreck
+Nasty
+Cleave
+Gobble
+Pierce
+Ravage
+Bitten
+Behead
+Filthy
+Cripple
+Dissect
+Obscene
+Hateful
+Painful
+Lacerate
+Massacre
+Mutilate
+Disgrace
+Disfigure
+Masticate
+Rip apart
+Slaughter
+Contaminate
+Hating
+Lover
+Toys
+Player
+Robots
+Machines
+Science
+Books
+Learning
+College
+School
+Homework
+Kindness
+Brainy Boy
+Cat fan
+Fur ball
+Rolling
+Glasses
+Cookies
+Lullaby
+Poor me
+Slippers
+Move ZIG
+Jasper V2
+I can fly
+Four eyes
+Warm milk
+Big sister
+Precocious
+Red Tights
+Your fault
+Chair bear
+I upgraded
+Extra life
+Boss fight
+Teddy bear
+Story time
+Tuck me in
+Love my cat
+I feel tall
+Oscar scene
+Sleepy time
+Life of hurt
+Child genius
+Tell Candi I
+Stripy skirt
+Free at last
+Looking down
+Mind fingers
+Touching end
+I be rolling
+Best of five
+Make it quick
+Do your worst
+Stupid stairs
+Misunderstood
+Psycho man is
+You missed me
+You be hating
+Only two eyes
+Never popular
+Leaking a bit
+Best of three
+Little brother
+Hurt by Caesar
+Cute in Yellow
+Jasper mad now
+Driven to this
+I like cabbage
+Who needs legs
+You could stop
+Very loud bang
+OK then,
+cards
+Call it a draw
+Make your time
+Sad about Varla
+Blonde pigtails
+You hurt Jasper
+Mildly pathetic
+Floating is fun
+You look stupid
+Not in the face
+One last cuddle
+Lovely leg brace
+Cute as a button
+My cat hates you
+That offended me
+Want to be loved
+Give me a chance
+Lamb to slaughter
+My palace of pain
+Feed kitty for me
+I need a band aid
+Failed in the end
+For great justice
+Never had a chance
+Missing chess club
+You'll regret that
+Think nice thoughts
+Main screen turn on
+Capable of greatness
+I can see your house
+Only time I was boss
+I regret most things
+Might have wet myself
+I'm not even a mutant
+Wish I was a real boy
+My brain is beautiful
+Sorry for the children
+I need another quarter
+Good evening gentleman
+You don't have to shoot
+Go on then,
+keep typing
+I'll come back as a ghost
+Things could be different
+That's not even a real gun
+Somebody set us up the bomb
+Doesn't this seem odd to you
+Come here and I'll nibble you
+Is it too late to shake hands
+We could play Twister instead
+You have no chance to survive
+All your base are belong to us
+Why the big face
+B,+7
++3 3+.B3B.A 6
+3 "".3! 
+ !"!:;-A.A-@;#!#"!#;<-?@."$"#$$-.<%#%<5#&$&#%-$&5
+?-/-
+/0?/
+0/?0>
+10>1=1(=
+21(12
+'2()*)(''
+GRH;
+GTCTGTSRC<
+STUF
+ONODUF
+ighi
+hshtsH
+LPQLt
+LKJKLJ=
+KJIFIJEYFIFYYEWK\PlP\\klIZK\KZY[IZI[WXY[YXc\ZdZ[ZdcXd[\cjk\jXWVVWB
+V^XV^B
+_^]dXeX^e
+_``e^
+mnnop
+vnvpuwvun
+vwxx
+vyxw
+2123454345676567898789:9<:<9;cbabcdedcdefgfefghihghijiljlikonmnopqpopqrsrqrstutstuvwvuvwxyxwxyzy|z|y{
+	$#"#$%%,#&%$,%-%&''-%('&-'.+(*).''()(+).)/0)+)0/?>=>?@@U>Q@?U@V@QRRV@ARQVRWRABBWRCBAWBXBCDDXBEDCXDYDEFFYDGFEYFZFGHHZFIHGZH[HIJJ[HKJI[J\JKLL\JMLK\L]LMNN]LONM]N^TOSP^NNOPOTP^P_`PTP`_o
